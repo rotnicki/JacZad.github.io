@@ -1,0 +1,30 @@
+tips:
+	- tip:
+		date: 2023-01-01
+		text: Od początku 2023 roku ruszamy ze wskazówkami na temat dostępności. Codziennie znajdziesz tu nową podpowiedź, jak uczynić świat bardziej dostępnym. Przypominymy Ci o przepisach ustawowych, datach, narzędziach, a przede wszystkim jak zapewniać dostępność w sposób racjonalny. Daj nam znać, czy Ci się podoba.
+	- tip:
+		date: 2023-01-02
+		text: W pakiecie Microsoft Office znajdziesz narzędzie, które pomoże zadbać o dostępność dokumentów tekstowych i prezentacji W edytorze Word i Powerpoint poszukaj paska Recenzja, a tam Sprawdź ułatwienia dostępu. Pojawi się okno z raportem wyświetlającym błędy i ostrzeżenia. Przeczytaj i popraw błędy, a dokumenty będą zdecydowanie dostępniejsze.
+	- tip:
+		date: 2023-01-03
+		text: Wordpress ma wbudowane narzędzie służące do dodawania tekstów alternatywnych do grafik. Otwórz galerię multimediów, kliknij na grafikę i wyświetli się okno z właściwościami tego pliku. Znajdziesz tam pole edycyjne z etykietą "tekst alternatywny". To właśnie tutaj wpisz tekst alternatywny, żeby pojawił się na stronie wraz z obrazkiem. Tekstu alternatywnego nie widać.
+	- tip:
+		date: 2023-01-04
+		text: Schody powinny być widoczne dla wszystkich, w tym dla osób słabowidzących. Zadbaj o kontrast krawędzi przynajmniej pierwszego i ostatniego stopnia. Możesz te krawędzie pomalować kontrastującą farbą lub nakleić taśmę. Upewnij się, że oznaczenia są widoczne przy wchodzeniu po schodach i przy schodzeniu ze schodów.
+	- tip:
+		date: 2023-01-05
+		text: Osoby słabosłyszące i głuche wspomagają się czasem czytaniem z ruchu warg. Nie wszyscy to potrafią i nie jest to idealny sposób komunikowania się. Jeżeli chcesz im to ułatwić - stań tak, by światło nie padało zza pleców. Mów zwyczajnie, bez specjalnej artykulacji lub zwolnienia wymowy. No i pamiętaj, że maseczka uniemożliwia skorzystanie z tego typu sposobu komunikowania się.
+	tip:
+		date: 2023-01-06
+		text: WCAG to specyfikacja opisująca, w jaki sposób zadbać o dostępność strony internetowej lub innej treści elektronicznej. Tę dostępność można zapewnić na 3 poziomach oznaczonych następująco: A (podstawowy), AA (optymalny) i AAA (pełny). Już spełnienie na poziomie A oznacza, że ze strony internetowej będzie mogło korzystać bardzo wiele osób. Jednak rekomendowanym poziomem jest AA. Musisz jednak pamiętać, że aby spełnić wymagania z poziomu AA, musisz spełnić je także na poziomie A.
+	- tip:
+		date: 2023-01-07
+		text: 
+		
+		
+		
+		
+		
+	- tip:
+		date: 2023-03-01
+		text: Do końca marca masz czas na przegląd i aktualizację deklaracji dostępności. Sprawdź, czy wszystko się zgadza ze stanem faktycznym. Może się okazać, że budynek lub strona internetowa stały się bardziej dostępne, a w deklaracji są nieaktualne informacje. Ten obowiązek wynika z ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
