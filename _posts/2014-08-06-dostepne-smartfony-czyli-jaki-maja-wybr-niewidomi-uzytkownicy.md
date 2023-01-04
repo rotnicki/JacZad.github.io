@@ -1,0 +1,61 @@
+---
+id: 1094
+title: 'Dostępne smartfony, czyli jaki mają wybór niewidomi użytkownicy'
+date: '2014-08-06T12:18:04+02:00'
+layout: post
+guid: 'http://informaton.pl/?p=1094'
+permalink: /2014/08/06/dostepne-smartfony-czyli-jaki-maja-wybr-niewidomi-uzytkownicy/
+restapi_import_id:
+    - 5ca8405547793
+categories:
+    - artykuły
+tags:
+    - Amazon
+    - Android
+    - Apple
+    - iOS
+    - mobilne
+    - Samsung
+---
+
+Zabierałem się do napisania tego tekstu dosyć długo, bo temat nie jest prosty. Byłem już oskarżany o bycie wielbicielem Apple, co zwyczajnie nie jest prawdą, ale w tym momencie nie umiem z czystym sumieniem polecić smartfona z Androidem osobie niewidomej. Postaram się jednak nakreślić kilka akapitów porównania obu systemów od strony pewnych fundamentalnych różnic i ich wpływu na dostępność samego urządzenia i aplikacji na nim instalowanych.
+
+### Jaki mamy wybór?
+
+W zasadzie wybór mamy niewielki i ogranicza się on do decyzji: iPhone czy jakieś urządzenie z Androidem. Na rynku są jeszcze ostatnie egzemplarze przeleżakowanych w magazynach lub używanych smartfonów z Symbianem, ale to już nie potrwa długo. Blackberry nigdy nie był popularny na polskim rynku, a wśród osób niewidomych jest niemal zupełnie nieznany, a i mało użyteczny. Z kolei Windows Phone i Firefox OS wciąż czekają na rozwiązania, które pozwolą na ich używanie przez niewidomych użytkowników. Zatem naprawdę pozostaje Android i iPhone, więc tylko im warto się przyglądać.
+
+### Setki systemów kontra jeden system
+
+Android jest systemem otwartym i możliwym do implementowania przez każdą firmę. Z tego powodu można go znaleźć zarówno na telefonach i tabletach, jak w odtwarzaczach multimedialnych, telewizorach, nawigacjach GPS, czytnikach ebooków i wielu innych urządzeniach. Otwartość oznacza także możliwość modyfikowania systemu, w tym dodawanie i usuwanie funkcjonalności, zamianę aplikacji preinstalowanych i robienie z nim innych rzeczy, które nie przychodzą do głowy zwykłemu użytkownikowi. Skutek jest taki, że niemal nie występują smartfony z czystym Androidem, jak go publikuje firma Google, a stosowane są przeróżne modyfikacje. Można zatem powiedzieć, że są to raczej systemy oparte o Androida, niż po prostu Android. Ten w stanie czystym pojawia się tylko na urządzeniach Nexus oraz na wyjątkowo egzotycznych urządzeniach z Chin. Bywa też tak, że na tak zmodyfikowanego Androida nakładają się modyfikacje operatorów, którzy chcą zamanifestować swoją obecność.
+
+Do tego należy dodać fakt, że smartfony z systemami opartymi o Androida są słabo aktualizowane. Wystarczy pomyśleć, że aktualizację musi wypuścić najpierw Google, tą z kolei musi zaktualizować producent, a czasem na koniec jeszcze operator. Dlatego aktualizacje są rzadkie i niekompletne, a w skrajnych przypadkach – nie następują nigdy. Istnieje co prawda furtka, polegająca na instalowaniu alternatywnych odmian Androida, ale to raczej robota dla bardzo wytrwałych, a nie przeciętnych użytkowników. Te oba zjawiska razem dostały nawet własną nazwę, którą jest “fragmentacja”. Rynek Androida jest pofragmentowany na malutkie kawałki różnych wersji systemu i jego modyfikacji.
+
+Zupełnie inaczej jest w wypadku iPhone firmy Apple, gdzie systemem jest jednorodny system iOS. Apple nie pozwala na modyfikowanie systemu nikomu, w tym operatorom. Jedyne co mogą zrobić, a i to pokątnie, to dodać skrót do ich strony i podmienić tapetę. Wsparcie jest ciągłe, a iPhone’y mają regularnie aktualizowany system. Wydany rok temu system iOS 7 może być zainstalowany na iPhone’ach 4, 4S, 5 i 5S. Nowy, który pojawi się za kilka miesięcy, obejmie zapewne urządzenia oznaczone kodami 4S, 5, 5S i najnowszy 6. Prawdopodobnie model 4 nie będzie już wspierany, bo i wersja 7 systemu iOS działa na nim dosyć słabo. Użytkownicy iOS 7 otrzymali także kilka mniejszych aktualizacji, głównie bezpieczeństwa i stabilności. Na pozór wygląda to znacznie lepiej i Apple może się chwalić bardzo dużą jednorodnością systemu, to znaczy że ogromna większość korzysta z najnowszej wersji, niewielka część ze starszej i zupełny margines z jeszcze wcześniejszych.
+
+Myślę, że warto powiedzieć, dlaczego tak się dzieje. Otóż Apple nie daje innej możliwości, jak aktualizacja systemu. Można pozostać przy starszej wersji, co niektórzy użytkownicy czynią z różnych powodów i czasem nawet dostają jakąś aktualizację bezpieczeństwa. Jednak jeżeli już system zaktualizowali, to nie ma powrotu – będą używać nowego, choćby im się nie spodobał. Co gorsza – nie mogą też zaryzykować procedury odzyskiwania telefonu, bo Apple wymusi zainstalowanie najnowszej wersji. Stajemy się poniekąd zakładnikami producenta.
+
+### System otwarty i zamknięty
+
+Jak wcześniej wspomniałem – Android jest systemem otwartym, co pozwala na jego modyfikację każdemu. Ma też inną cechę – jest otwarty wewnątrz i poszczególne aplikacje mogą komunikować się pomiędzy sobą i z systemem. Można sobie zainstalować inną klawiaturę, program do wiadomości SMS, przeglądarkę internetową, telefon i inne elementy systemowe. W iOS tak się nie da. Apple daje swoje aplikacje i już. W zapowiedziach iOS 8 mówi się, że można będzie podmieniać klawiaturę i być może jakieś inne elementy, ale nieliczne i z ostrożnością. Faktem jest jednak to, że **wszystkie** aplikacje preinstalowane na iPhone są w pełni dostępne, czego o smartfonach opartych o Androida powiedzieć się nie da. Zdarza się, że niedostępne są tak podstawowe aplikacje jak telefon, wiadomości i książka adresowa. To właśnie jest efekt fragmentacji i modyfikowania systemu przez producentów i operatorów. Można te aplikacje podmienić, ale to wymaga już pewnej wiedzy i doświadczenia, bo trzeba mieć konto Google, znaleźć odpowiednią aplikację, zainstalować, włączyć i dokonać czasem innych czynności konfiguracyjnych. Jest to zatem raczej dostosowanie urządzenia, niż dostępność.
+
+Otwartość i zamkniętość mają jednak także drugą stronę. System otwarty można zmodyfikować tak, by był **bardziej dostępny** niż oryginalny. Nad takimi rozwiązaniami pracują Samsung i Amazon, a pewnie i inni producenci. W otwartym systemie mogą także pracować swobodnie programiści tworzący aplikacje w rodzaju czytników ekranu i syntezatorów mowy. Dla Androida istnieją zatem zamienniki, a dla iPhone – nie. W iPhone jest jeden słuszny czytnik ekranu VoiceOver i jeden słuszny syntezator mowy. Nie podobają Ci się – nie masz wyboru. Pod Androidem jest TalkBack i Spiel, a było kilka innych rozwiązań, na przykład Mobile Accessibility. Głosy też są różne – od Espeaka do Ivona Maja.
+
+System iOS jest najbardziej dopracowanym systemem pod względem dostępności i będę to zdanie powtarzał pewnie jeszcze długo. Co będzie jednak, jeżeli Tim Cook uzna, że dostępność nie jest już priorytetem? Apple nie daje wyboru i iOS stanie się po prostu systemem niedostępnym i już. Prawdopodobieństwo takiej sytuacji jest znikome, ale jednak istnieje. Apple ma całkowitą kontrolę nad swoim systemem, tylko ta firma go zmienia i dzięki temu iPhone jest dostępny od razu po wyjęciu z pudełka. Trzykrotne naciśnięcie przycisku Home i już gada. Trzykrotne stuknięcie trzema palcami i już powiększa. Potem już prosto, a i wsparcie firmy i społeczności jest bardzo silne. Apple zrobiła coś wielkiego w obszarze dostępności i jest tego dumna. Ale jak im przejdzie… Pamiętajcie – nie daje nam wyboru.
+
+### Dwa sklepy – dwa światy
+
+Smartfony to przede wszystkim instalowane na nich aplikacje. Można je kupić lub pobrać za darmo ze sklepów Play (Android) i AppStore (Apple). Podobnie jednak jak systemy operacyjne, tak i sklepy różnią się fundamentalnie. Firma Apple ma swoje wymagania odnośnie aplikacji dotyczące sposobu ich zaprojektowania, bezpieczeństwa, wyglądu i sposobu działania. Nie bardzo wierzę, że absolutnie każda aplikacja była skrzętnie sprawdzana, bo pewnie nie starczyłoby pracowników, ale jednak jakiś proces weryfikacji się odbywa. Wiem od programistów, że na zatwierdzenie aplikacji czeka się czasem nawet kilka tygodni, a odmowa jest zawsze uzasadniana. Pojawiają się też propozycje, by [dodać wymaganie odnośnie dostępności interfejsu, lub przynajmniej tagowania aplikacji o potwierdzonej dostępności.](http://techcrunch.com/2014/08/02/apple-accessibility
+/?utm_content=buffer327a6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)W Google Play nie ma żadnej kontroli i każdy może napisać i wystawić swoją aplikację. To znaczy – Google twierdzi, że kontrola ma być społeczna, poprzez oceny i komentarze, ale to zwyczajnie nie działa. Efekt jest taki, że do AppStore trafiają aplikacje wyższej jakości i zdecydowanie bezpieczniejsze, niż do Google Play. Ośmielę się napisać, że w AppStore nie ma niebezpiecznych aplikacji, chociaż bardzo incydentalnie zdarzały się takie sytuacje. W sklepie Google Play jest mnóstwo niebezpiecznych aplikacji – wirusów, trojanów, keyloggerów i innych. Po wykryciu przez użytkowników są zazwyczaj usuwane ze sklepu, ale faktem pozostaje, że najpierw do niego trafiają. Dlatego właśnie na Androida powstają programy antywirusowe, a na iOS – nie. Po prostu nie są potrzebne. System iOS jest po prostu bezpieczny, przynajmniej od wirusów i trojanów.
+
+I znowu – wszystko to ma swoją drugą stronę. Apple może nie dopuścić do sklepu aplikacji z powodów innych, niż podałem powyżej. Może nie dopuścić z powodów licencyjnych lub moralnych. Apple nie lubi otwartych licencji, więc ciężki żywot mają aplikacje Mozilli, a VLC był już z AppStore usuwany. Nie można też wprowadzić do sklepu aplikacji niezgodnych z moralnością Apple, na przykład związanych z pornografią. Selekcja ma różne oczka, przez które przepuszcza aplikacje lub nie. Co więcej – na iPhone aplikacje można instalować **wyłącznie** za pośrednictwem sklepu. W Androidzie można skorzystać z wersji instalacyjnych pobranych skądkolwiek lub napisanych przez siebie samego. To nie jest bezpieczne, a przy tym pozwala na piractwo. Na iPhone nie ma pirackiego oprogramowania.
+
+### Jaki to wszystko ma wpływ na dostępność?
+
+Fundamentalne różnice pomiędzy Androidem i iOS mają wpływ na dostępność samego systemu i instalowanych na nim aplikacji. Postaram się to jakoś podsumować poniżej.
+
+1. Programista wzięty w karby zrobi aplikację lepszą i bardziej standardową. Dlatego w AppStore jest więcej dostępnych aplikacji, niż w Play. Pełna swoboda tworzenia sprawia, że programista zaczyna kombinować z interfejsem i pojawiają się problemy. Plus dla Apple.
+2. Zamknięty i pod pełną kontrolą system operacyjny daje możliwość lepszego udostępnienia funkcji. Na każdym urządzeniu działają tak samo, stabilnie i przewidywalnie. Fragmentacja Androida nie daje żadnej gwarancji, że system da się udźwiękowić. Plus dla Apple.
+3. Otwarty system daje możliwość wprowadzania modernizacji, nowych rozwiązań, łączenia już istniejących. W ten sposób można czasem osiągać więcej lub przynajmniej dawać wybór. Plus dla Google.
+4. Zamknięty system nie pozwala na poprawianie błędów. Apple zaimplementowała dostępność doskonale i na poziomie trudnym do osiągnięcia przez innych producentów. Jednak jeżeli popełni jakiś błąd, to jest on nie do naprawienia.Niemal rok od pojawienia się systemu iOS 7 nie został poprawiony błąd słownikowy, który sprawia że ikonka Game Center nie jest odczytywana. Nadal nie wszyscy zaakceptowali także nowy polski głos o zabużańskim akcencie. Plus dla Google.
+
+Po napisaniu powyższych czterech punktów zauważyłem, że dwa pierwsze są stwierdzeniem faktu, a ostatnie dwa – otwartymi możliwościami. Oznacza to, że jeżeli Apple nie poluzuje za bardzo kontroli, to dostępność jej urządzeń nadal będzie wzorcowa. Z kolei Google dla osiągnięcia podobnych efektów musi więcej zainwestować w dostępność, a nie pozostawiać ją ruchowi społecznościowemu. Android to ogromne i wciąż nie wykorzystane możliwości, psute przez fragmentację i brak wymagań. Jednak Android wykonał w ciągu ostatniego roku spory krok do przodu, zmniejszając dystans do iPhone. Może za rok ten tekst wyglądałby inaczej, ale teraz sytuacja jest taka, że nadal iPhone jest znacznie lepszym wyborem dla osoby niewidomej, niż urządzenie z Androidem.
