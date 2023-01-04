@@ -386,10 +386,10 @@ da-DK:
 pl: &DEFAULT_PL
   comments_label             : "Zostaw komentarz"
   comments_title             : "Komentarze"
-  comment_form_info          : "Twój adres email nie będzie udostępiony. Wymagane pola są oznaczone"
+  comment_form_info          : "Twój adres email nie będzie udostępniony. Wymagane pola są oznaczone"
   comment_form_comment_label : "Skomentuj"
   comment_form_md_info       : "Markdown jest wspierany"
-  comment_form_name_label    : "Imię"
+  comment_form_name_label    : "Nazwa"
   comment_form_email_label   : "Adres email"
   comment_form_website_label : "Strona www (opcjonalna)"
   comment_btn_submit         : "Skomentuj"
