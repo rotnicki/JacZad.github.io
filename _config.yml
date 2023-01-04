@@ -20,11 +20,10 @@ author: Jacek Zadrożny
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+   O mnie : "aboutme"
+  Imperium:
+      Podcast: 
+          Newsletter:
 
 ################
 # --- Logo --- #
