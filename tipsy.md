@@ -3,13 +3,14 @@ layout: page
 title: Testowanie tipów
 ---
 
-{% for tip in tips %}
-H2><datetime>{{ tip.date }}</time></h2>
-<p> {{ tip.text }}</p>
+
+{% for t in tip %}
+<H2><datetime>{{ t.date }}</datetime></h2>
+<p> {{ t.text }}</p>
 {% if tip.url %}
-<a href="{{ tip.url }}">Zobacz</a>
-{% endif }}
-{% if tip.icon %}
-<p>Ikona {{ tip.icon }}</p>
+<a href="{{ t.url }}">Zobacz</a>
+{% endif %}
+{% if t.icon %}
+<p>Ikona {{ t.icon }}</p>
 {% endif %}
 {% endfor %}
