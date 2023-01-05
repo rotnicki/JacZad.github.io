@@ -3,6 +3,7 @@ title: 'Odcinek nr 14: Akcja - ewakuacja, czyli kogo i jak ratować, a kogo już
 date: '2022-11-04T07:30:50+01:00'
 author: 'Jacek Zadrożny'
 layout: post
+tags: [ewakuacja, bezpieczeństwo, "Polska bez barier", "Maciej Augustyniak"]
 categories:
     - Podcast
 ---

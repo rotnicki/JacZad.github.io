@@ -4,12 +4,7 @@ title: 'Odcinek bonusowy - Przerwa, czyli wracam za miesiąc'
 date: '2022-09-30T04:10:47+02:00'
 author: 'Jacek Zadrożny'
 layout: post
-guid: 'https://informaton.blog/2022/09/30/odcinek-nr-przerwa-czyli-wracam-za-miesiac/'
-permalink: /2022/09/30/odcinek-nr-przerwa-czyli-wracam-za-miesiac/
-secondline_imported_guid:
-    - 7d942fc7-041d-464d-b911-b1f39aee3d6b
-enclosure:
-    - "https://anchor.fm/s/529b8668/podcast/play/58307044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-29%2Fdba06faa-b039-91a7-26ae-8d5b63df20ae.mp3\n118\naudio/mpeg\n"
+tags: [podcast, prywatne, zabawne, "Jacek Zadrożny"]
 categories:
     - Podcast
 ---
