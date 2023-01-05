@@ -20,10 +20,10 @@ author: Jacek Zadrożny
 ###############################################
 
 navbar-links:
-   O mnie : "aboutme"
+  O mnie : "aboutme"
   Imperium:
-      Podcast: 
-          Newsletter:
+    Podcast: 
+  Newsletter:
 
 ################
 # --- Logo --- #
