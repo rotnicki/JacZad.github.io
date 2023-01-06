@@ -1,10 +1,9 @@
 ---
-id: 1838
 title: 'Dostępność zapisana w rozporządzeniu'
 date: '2012-05-31T14:30:00+02:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Pierwszy wpis na tym blogu pokazał, jak bardzo potrafię się mylić. Minęło prawie 10 lat, a cyfrowa dostępność wciąż bywa traktowana jak fanaberia.'
 layout: post
+tags: ["Rozporządzenie KRI", prawo, WCAG, "WCAG 2.0"]
 categories:
     - artykuły
 ---
