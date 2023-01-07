@@ -1,17 +1,11 @@
 ---
-id: 1893
 title: 'Aplikacja roku 2018 &#8211; suplement'
 date: '2019-01-09T13:54:31+01:00'
 layout: post
-guid: 'https://informaton.pl/?p=1893'
-permalink: /2019/01/09/aplikacja-roku-2018-suplement/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - '2018'
-    - aplikacje
+    - "aplikacje mobilne"
     - Apple
     - iOS
     - plebiscyt
