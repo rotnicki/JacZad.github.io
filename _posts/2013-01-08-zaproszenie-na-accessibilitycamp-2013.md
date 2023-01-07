@@ -1,12 +1,7 @@
 ---
-id: 489
 title: 'Zaproszenie na AccessibilityCamp 2013'
 date: '2013-01-08T11:06:06+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=489'
-permalink: /2013/01/08/zaproszenie-na-accessibilitycamp-2013/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:

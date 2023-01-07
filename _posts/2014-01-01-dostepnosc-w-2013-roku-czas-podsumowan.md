@@ -1,21 +1,13 @@
 ---
-id: 908
 title: 'Dostępność w 2013 roku &#8211; czas podsumowań'
 date: '2014-01-01T00:35:00+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=908'
-permalink: /2014/01/01/dostepnosc-w-2013-roku-czas-podsumowan/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - audiodeskrypcja
-    - KRRiT
-    - MAiC
     - napisy
-    - TL-DR
-    - 'WCAG 2.0'
+    - 'WCAG'
 ---
 
 Podsumowania mijającego roku są bardzo popularne, a więc i ja postanowiłem przygotować swoje. Rok 2013 był dla dostępności ważny, chociaż niewiele na to wskazywało jeszcze kilka miesięcy wcześniej. Pierwszy zauważył to chyba Robert Drózd pisząc w marcu krótką informację na swoim blogu [Dostępnościowe przebudzenie AD 2013](http://www.webaudit.pl/blog/2013/dostepnosciowe-przebudzenie-ad-2013/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+WebauditBlog+%28WebAudit+Blog%29) i chyba miał rację. Coraz więcej ludzi i instytucji interesuje się dostępnością i cyfrowym włączeniem osób niepełnosprawnych. Ja przedstawię subiektywny wybór wydarzeń, który nie jest kompletną relacją, a jedynie daje ogólny obraz zachodzących zmian.
@@ -44,7 +36,7 @@ W tym samym miesiącu w Sejmie odbyło się spotkanie poświęcone dostępności
 
 Maj był ważnym miesiącem, bo to właśnie w tym miesiącu zdarzyły się dwie rzeczy: ukazało się [polskie tłumaczenie specyfikacji WCAG 2.0](http://fdc.org.pl/wcag2) oraz odbył się pierwszy w Polsce Accessibility Camp. Prace nad [tłumaczeniem WCAG 2.0](http://fdc.org.pl/wcag2)ślimaczyły się niemiłosiernie, ale tuż przed Accessibility Campem nabrały rozpędu i wreszcie są. Wciąż nie są oficjalnym tłumaczeniem, bo na przeszkodzie stoi asekurancka postawa administracji publicznej, ale jest to już wersja ostateczna. WCAG 2.0 jest najważniejszym dokumentem dla dostępności informacji elektronicznej i po prostu musiał być przetłumaczony.
 
-Accessibility Camp zorganizowaliśmy 9 maja, czyli dokładnie w [Global Accessibility Awareness Day.](http://globalaccessibilityawarenessday.org/gaad.html)W ten sposób przyłączyliśmy się do światowej inicjatywy i było to pierwsze i największe tego typu wydarzenie w naszej części Europy. Trochę po partyzancku, w nerwach i na ostatnią chwilę udało się wszystko dopiąć i zgromadzić w jednym miejscu większość tych, którzy o dostępności mają coś sensownego do powiedzenia. Udało się nawet zrobić transmisję online, chociaż jeszcze dzień wcześniej wcale nie było to pewne. A wszystko własnymi rękami kilkorga ludzi.
+AccessibilityCamp zorganizowaliśmy 9 maja, czyli dokładnie w [Global Accessibility Awareness Day.](http://globalaccessibilityawarenessday.org/gaad.html)W ten sposób przyłączyliśmy się do światowej inicjatywy i było to pierwsze i największe tego typu wydarzenie w naszej części Europy. Trochę po partyzancku, w nerwach i na ostatnią chwilę udało się wszystko dopiąć i zgromadzić w jednym miejscu większość tych, którzy o dostępności mają coś sensownego do powiedzenia. Udało się nawet zrobić transmisję online, chociaż jeszcze dzień wcześniej wcale nie było to pewne. A wszystko własnymi rękami kilkorga ludzi.
 
 ## Czerwiec – mobilna dostępność od BBC
 

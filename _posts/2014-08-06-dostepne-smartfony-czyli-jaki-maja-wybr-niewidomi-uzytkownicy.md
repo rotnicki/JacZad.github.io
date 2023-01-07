@@ -1,12 +1,7 @@
 ---
-id: 1094
 title: 'Dostępne smartfony, czyli jaki mają wybór niewidomi użytkownicy'
 date: '2014-08-06T12:18:04+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1094'
-permalink: /2014/08/06/dostepne-smartfony-czyli-jaki-maja-wybr-niewidomi-uzytkownicy/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
@@ -14,7 +9,6 @@ tags:
     - Android
     - Apple
     - iOS
-    - mobilne
     - Samsung
 ---
 

@@ -1,21 +1,15 @@
 ---
-id: 743
 title: 'Opinia EKES w sprawie dyrektywy o dostępności stron internetowych'
 date: '2013-07-18T06:44:00+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=743'
-permalink: /2013/07/18/opinia-ekes-w-sprawie-dyrektywy-o-dostepnosci-stron-internetowych/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - dyrektywa
     - EKES
     - 'Komisja Europejska'
     - prawo
     - 'Unia Europejska'
-    - 'WCAG 2.0'
+    - 'WCAG'
 ---
 
 Europejski Komitet Ekonomiczno-Społeczny (EKES) wydał [opinię w sprawie projektu dyrektywy o dostępności publicznych stron internetowych.](http://wiadomosci.ngo.pl/wiadomosci/895956.html?utm_source=prenumerata&utm_medium=email&utm_campaign=18.07.2013) Moim zdaniem to bardzo solidna i sensowna opinia, punktująca poważne braki w projekcie.

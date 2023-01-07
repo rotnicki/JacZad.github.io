@@ -1,12 +1,7 @@
 ---
-id: 607
 title: 'Droga ku światłości'
 date: '2013-02-15T19:31:26+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=607'
-permalink: /2013/02/15/droga-ku-swiatlosci/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:

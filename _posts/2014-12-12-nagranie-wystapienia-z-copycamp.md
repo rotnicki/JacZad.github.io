@@ -1,12 +1,7 @@
 ---
-id: 1199
 title: 'Nagranie wystąpienia z Copycamp'
 date: '2014-12-12T18:57:51+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=1199'
-permalink: /2014/12/12/nagranie-wystapienia-z-copycamp/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
@@ -15,7 +10,6 @@ tags:
     - 'język migowy'
     - napisy
     - 'prawo autorskie'
-    - wideo
 ---
 
 Dobrzy ludzie z Fundacji “Nowoczesna Polska” nagrali moje wystąpienie podczas konferencji Copycamp, poświęcone problemom na styku dostępności i prawa autorskiego. Jest to nagranie pouczające, z którego można się dowiedzieć, jak nie wygłaszać prezentacji. Strasznie się męczyłem słuchając samego siebie, ale jeżeli ktoś jest odważny i odporny – niechaj obejrzy.

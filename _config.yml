@@ -95,14 +95,14 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 # url-pretty: "MyWebsite.com"
 
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words 
+excerpt_length: 20
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: true

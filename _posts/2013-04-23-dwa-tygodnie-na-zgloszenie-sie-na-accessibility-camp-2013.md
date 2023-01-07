@@ -1,21 +1,15 @@
 ---
-id: 681
 title: 'Dwa tygodnie na zgłoszenie się na Accessibility Camp 2013'
 date: '2013-04-23T08:25:00+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=681'
-permalink: /2013/04/23/dwa-tygodnie-na-zgloszenie-sie-na-accessibility-camp-2013/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - 'Accessibility Camp'
+    - 'AccessibilityCamp'
     - ARIA
     - audiodeskrypcja
-    - MAiC
     - napisy
-    - 'WCAG 2.0'
+    - 'WCAG'
 ---
 
 Dostępność nowoczesnych technologii dla niepełnosprawnych użytkowników jest kluczowa dla ich uczestniczenia w społeczeństwie informacyjnym. Tak jak powinno budować się dostępne budynki, miasta, pojazdy, tak trzeba budować dostępne strony internetowe, aplikacje i urządzenia mobilne. Wciąż jednak niewiele się o tym mówi, chociaż od niemal roku dostępność systemów teleinformatycznych wpisana jest do polskiego prawa. Dlatego organizacje i ludzie działający na rzecz dostępności ogłosiły 9 maja akcję Global Accessibility Awareness Day. W tym dniu odbędzie się także pierwsza w Polsce otwarta impreza poświęcona wyłącznie dostępności dla osób niepełnosprawnych – stron internetowych, multimediów i urządzeń mobilnych. Accessibility Camp odbędzie się w siedzibie [Ministerstwa Administracji i Cyfryzacji](http://www.mac.gov.pl), co podkreśla wagę tego wydarzenia dla rozwoju cyfrowej Polski. Organizatorem jest [Forum Dostępnej Cyberprzestrzeni](http://fdc.org.pl) zrzeszające podmioty zajmujące się cyfrowym włączeniem osób niepełnosprawnych.
