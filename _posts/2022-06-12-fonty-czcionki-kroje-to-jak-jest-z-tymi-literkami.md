@@ -1,12 +1,8 @@
 ---
-id: 2774
 title: 'Fonty, czcionki, kroje &#8211; to jak jest z tymi literkami?'
 date: '2022-06-12T21:09:23+02:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Refleksje nad czcionkami bez szeryfów i z szeryfami, czyli nie tak łatwo z tą dostępnością.'
 layout: post
-guid: 'https://informaton.blog/?p=2774'
-permalink: /2022/06/12/fonty-czcionki-kroje-to-jak-jest-z-tymi-literkami/
 categories:
     - artykuły
 tags:
