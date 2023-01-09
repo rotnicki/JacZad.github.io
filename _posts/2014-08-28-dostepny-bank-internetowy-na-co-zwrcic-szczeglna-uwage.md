@@ -1,21 +1,16 @@
 ---
-id: 1114
 title: 'Dostępny bank internetowy &#8211; na co zwrócić szczególną uwagę?'
 date: '2014-08-28T14:54:32+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1114'
-permalink: /2014/08/28/dostepny-bank-internetowy-na-co-zwrcic-szczeglna-uwage/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - 'Android Windows Phone'
+    - 'Android'
     - banki
     - formularze
     - iOS
     - klawiatura
-    - mobilne
+    - 'aplikacje mobilne'
     - pieniądze
 ---
 
