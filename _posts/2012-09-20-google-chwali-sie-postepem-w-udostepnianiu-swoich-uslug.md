@@ -1,16 +1,11 @@
 ---
-id: 254
 title: 'Google chwali się postępem w udostępnianiu swoich usług'
 date: '2012-09-20T12:06:40+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=254'
-permalink: /2012/09/20/google-chwali-sie-postepem-w-udostepnianiu-swoich-uslug/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - Apps
+    - 'aplikacje mobilne'
     - ARIA
     - fokus
     - Google
