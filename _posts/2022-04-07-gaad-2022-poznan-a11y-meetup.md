@@ -1,16 +1,12 @@
 ---
-id: 2727
-title: 'GAAD 2022 &#8211; Poznań A11y Meetup'
+title: 'GAAD 2022 - Poznań A11y Meetup'
 date: '2022-04-07T08:46:04+02:00'
 author: 'Jacek Zadrożny'
 layout: post
-guid: 'https://informaton.blog/?p=2727'
-permalink: /2022/04/07/gaad-2022-poznan-a11y-meetup/
 categories:
     - artykuły
 tags:
     - GAAD
-    - 'GAAD 2020'
     - Poznań
 ---
 

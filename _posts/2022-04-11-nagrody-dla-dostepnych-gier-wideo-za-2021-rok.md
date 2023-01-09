@@ -1,11 +1,8 @@
 ---
-id: 2730
 title: 'Nagrody dla dostępnych gier wideo za 2021 rok'
 date: '2022-04-11T14:22:51+02:00'
 author: 'Jacek Zadrożny'
 layout: post
-guid: 'https://informaton.blog/?p=2730'
-permalink: /2022/04/11/nagrody-dla-dostepnych-gier-wideo-za-2021-rok/
 categories:
     - artykuły
 tags:

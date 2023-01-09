@@ -1,18 +1,16 @@
 ---
 id: 2681
-title: 'Skiplinki &#8211; czym są i jak je stosować?'
+title: 'Czym są skiplinki i jak je stosować?'
 date: '2022-03-26T14:25:00+01:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Kilka zdań o skiplinkach. Po co, jak  czego unikać?'
 layout: post
-guid: 'https://informaton.blog/?p=2681'
-permalink: /2022/03/26/skiplinki-czym-sa-i-jak-je-stosowac/
 categories:
     - artykuły
 tags:
-    - fokus
+    - 'fokus klawiatury'
     - klawiatura
-    - 'WCAG 2.1'
+    - 'WCAG'
+    - 'skiplink'
 ---
 
 WCAG rekomendują stosowanie skiplinków w kryterium sukcesu 2.4.1: możliwość pominięcia bloków. Ostatnio zaciekawiło mnie bogactwo rodzajów i sposobów wdrażania skiplinków. Postaram się zatem trochę podpowiedzieć, żeby unikać pewnych rozwiązań. Zatem do dzieła!

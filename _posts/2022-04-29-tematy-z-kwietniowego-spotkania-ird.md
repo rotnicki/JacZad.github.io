@@ -1,11 +1,8 @@
 ---
-id: 2742
 title: 'Tematy z kwietniowego spotkania IRD'
 date: '2022-04-29T12:02:57+02:00'
 author: 'Jacek Zadrożny'
 layout: post
-guid: 'https://informaton.blog/?p=2742'
-permalink: /2022/04/29/tematy-z-kwietniowego-spotkania-ird/
 categories:
     - artykuły
 tags:

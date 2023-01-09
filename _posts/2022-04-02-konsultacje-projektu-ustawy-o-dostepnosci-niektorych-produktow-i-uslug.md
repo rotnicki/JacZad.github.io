@@ -1,18 +1,14 @@
 ---
-id: 2691
 title: 'Konsultacje projektu ustawy o dostępności niektórych produktów i usług'
 date: '2022-04-02T11:11:17+02:00'
 author: 'Jacek Zadrożny'
-excerpt: 'MFiPR zaprasza do konsultacji projektu ustawy. Mamy czas do 30 kwietnia.'
 layout: post
-guid: 'https://informaton.blog/?p=2691'
-permalink: /2022/04/02/konsultacje-projektu-ustawy-o-dostepnosci-niektorych-produktow-i-uslug/
 categories:
     - artykuły
 tags:
     - EAA
+    - "ustawa o dostępności produktów i usług"
     - 'konsultacje publiczne'
-    - MFiPR
     - prawo
 ---
 

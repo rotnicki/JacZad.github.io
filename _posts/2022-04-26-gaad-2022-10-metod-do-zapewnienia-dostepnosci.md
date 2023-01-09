@@ -1,16 +1,12 @@
 ---
-id: 2737
 title: 'GAAD 2022 &#8211; 10 metod do zapewnienia dostępności'
 date: '2022-04-26T13:38:17+02:00'
 author: 'Jacek Zadrożny'
 layout: post
-guid: 'https://informaton.blog/?p=2737'
-permalink: /2022/04/26/gaad-2022-10-metod-do-zapewnienia-dostepnosci/
 categories:
     - artykuły
 tags:
     - GAAD
-    - 'GAAD 2020'
     - webinarium
     - 'Wojtek Kutyła'
 ---
