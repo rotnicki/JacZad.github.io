@@ -1,16 +1,11 @@
 ---
-id: 1323
 title: 'Program konferencji na dzień dostępności'
 date: '2015-04-30T09:51:06+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1323'
-permalink: /2015/04/30/program-konferencji-na-dzien-dostepnosci/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - 'Accessibility Camp'
+    -"AccessibilityCamp'
     - audiodeskrypcja
     - audyt
     - FDC
