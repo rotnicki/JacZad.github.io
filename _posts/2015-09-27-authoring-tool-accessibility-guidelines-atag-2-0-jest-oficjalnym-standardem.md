@@ -1,18 +1,12 @@
 ---
-id: 1447
 title: 'Authoring Tool Accessibility Guidelines (ATAG) 2.0 jest oficjalnym standardem'
 date: '2015-09-27T10:01:01+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1447'
-permalink: /2015/09/27/authoring-tool-accessibility-guidelines-atag-2-0-jest-oficjalnym-standardem/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - 'ATAG 2.0'
-    - dokumenty
-    - tekst
+    - 'ATAG'
+    - standardy
     - W3C
 ---
 
