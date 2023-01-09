@@ -11,6 +11,5 @@ Rozmawiałem z Krzysztofem Kotyniewiczem, prezesem Polskiego Związku Głuchych,
 
 A jeżeli kogoś zachęciliśmy do nauki języka migowego, to Krzysztof zaprasza do migania naturalnego.
 
-<audio controls>
-<source src="https://spotifyanchor-web.app.link/e/UigDTxzJrwb">
-</audio>
+
+<iframe src="https://anchor.fm/jaczad/embed/episodes/Jzyk-migowy--czyli-tosamo--kultura--epidemia-i-wojna-e1s9k5q" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
