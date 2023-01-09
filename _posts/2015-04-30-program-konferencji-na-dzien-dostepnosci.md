@@ -10,7 +10,6 @@ tags:
     - audyt
     - FDC
     - 'język migowy'
-    - KRI
     - prawo
 ---
 
