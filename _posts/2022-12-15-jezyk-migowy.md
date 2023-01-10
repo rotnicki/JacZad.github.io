@@ -1,5 +1,5 @@
 ---
-title: "Język migowy, czyli tożsamość, kultura, epidemia i wojna"
+title: "Odcinek nr 17: Język migowy, czyli tożsamość, kultura, epidemia i wojna"
 date: 2022-12-15
 author: Jacek Zadrożny
 layout: post
