@@ -14,5 +14,4 @@ Navilens to kolorowe kody graficzne pozwalające na przekazywanie informacji, po
 
 
 
-<audio class="wp-audio-shortcode" controls="controls" id="audio-2790-4" preload="none" style="width: 100%;"><source src="https://anchor.fm/s/529b8668/podcast/play/54123388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F529b8668%2F54123388%2Fbc364e33b706ab4c5ff36be46a0583ad.m4a?_=4" type="audio/mpeg"></source><https://anchor.fm/s/529b8668/podcast/play/54123388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F529b8668%2F54123388%2Fbc364e33b706ab4c5ff36be46a0583ad.m4a></audio>
-
+<iframe src="https://anchor.fm/jaczad/embed/episodes/Navilens---kolorowe-kwadraty-e1ki7ds" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

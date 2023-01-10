@@ -1,18 +1,15 @@
 ---
-id: 2662
 title: 'Webinarium o cyfrowej dostępności na rzecz walczącej Ukrainy'
 date: '2022-03-01T14:18:50+01:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Zapraszam na webinarium, podczas którego czegoś się dowiesz i może też zrobisz coś dobrego.'
 layout: post
-guid: 'https://informaton.blog/?p=2662'
-permalink: /2022/03/01/webinarium-o-cyfrowej-dostepnosci-na-rzecz-walczacej-ukrainy/
 categories:
     - artykuły
 tags:
     - Ukraina
     - webinarium
     - 'Wojtek Kutyła'
+    - GAAD
 ---
 
 Wojtek Kutyła zaprasza na webinar pod tytułem [UXy dla Ukrainy | 10 najczęstszych błędów dostępności i co z nimi zrobić?](https://www.facebook.com/events/1782393245484712) Kto ma konto na Facebooku może za pomocą tego wydarzenia zgłosić się i przekazać darowiznę dla [Polskiej Akcji Humanitarnej](https://www.pah.org.pl/). A kto nie ma – też może wziąć udział. Darowiznę można przekazać bezpośrednio na stronie PAH, gdzie jest już uruchomiona zbiórka. Informacja dla użytkowników czytników ekranu – formularz nie jest w pełni dostępny. Pola wyboru przy zgodach nie są dostępne za pomocą klawiatury i trzeba kliknąć na treść pierwszej zgody. Potem już standardowe formy płatności, w tym Blik, przelewy, Google Pay itp. A w czwartek można obejrzeć webinar na Facebooku lub [YouTube](https://youtu.be/nerXrDyZ2RA). Ja będę oglądał na YouTube, a darowiznę już wpłaciłem. Mogę pokazać!

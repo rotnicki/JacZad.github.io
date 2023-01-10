@@ -1,17 +1,13 @@
 ---
-id: 2660
 title: 'Rozbudowany kreator deklaracji dostępności'
 date: '2022-03-10T12:46:48+01:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Przygotowywanie opisu dostępności architektonicznej i informacyjno-komunikacyjnej w deklaracji może być trudne dla niedoświadczonych osób. Właśnie dla nich powstał generator deklaracji dostępności prowadzący za rękę podczas tworzenia tej części. Sprawdź to!'
 layout: post
-guid: 'https://informaton.blog/?p=2660'
-permalink: /2022/03/10/rozbudowany-kreator-deklaracji-dostepnosci/
 categories:
     - artykuły
 tags:
     - 'deklaracja dostępności'
-    - 'dostępność architektoniczna'
+    - 'architektura'
     - generator
     - kreator
     - prawo

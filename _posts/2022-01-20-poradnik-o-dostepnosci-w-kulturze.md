@@ -1,18 +1,14 @@
 ---
-id: 2637
 title: 'Poradnik o dostępności w kulturze'
 date: '2022-01-20T11:50:53+01:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Nie trafił do newslettera, chociaż czekałem na opublikowanie. Teraz jest i zapraszam do lektury i pochwał dla Ani Żórawskiej z FKBB.'
 layout: post
-guid: 'https://informaton.blog/?p=2637'
-permalink: /2022/01/20/poradnik-o-dostepnosci-w-kulturze/
 categories:
     - artykuły
 tags:
     - FKBB
-    - kultura
-    - muzea
+    - 'dostępna kultura'
+    - architektura
     - poradnik
     - teatr
 ---

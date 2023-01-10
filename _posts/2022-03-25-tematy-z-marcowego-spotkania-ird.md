@@ -1,12 +1,8 @@
 ---
-id: 2679
 title: 'Tematy z marcowego spotkania IRD'
 date: '2022-03-25T11:24:38+01:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Tematy z marcowego spotkania Izby Rzemiosła Dostępnościowego (IRD)'
 layout: post
-guid: 'https://informaton.blog/?p=2679'
-permalink: /2022/03/25/tematy-z-marcowego-spotkania-ird/
 categories:
     - artykuły
 tags:
@@ -16,7 +12,7 @@ tags:
 
 W środę spotkaliśmy się na pogaduchy na temat cyfrowej dostępności. Od pewnego czasu mamy takie wydarzenia, nazwane Izbą Rzemiosła Dostępnościowego. Rozmawiamy na różne tematy, czasem dość odlegle związane z samą dostępnością. Można powiedzieć, że to są takie spotkania, na których można się trochę pokłócić. Pomyślałem, że wymienię tematy, jakie poruszyliśmy, żeby nieobecni mieli przynajmniej taką skróconą informację.
 
-- Narzęzia i metodyki badania aplikacji mobilnych.
+- Narzędzia i metodyki badania aplikacji mobilnych.
 - Zmiany w ustawie o dostępności cyfrowej.
 - Deklaracje dostępności – duże braki i wadliwa struktura.
 - Wyszukiwanie podmiotów publicznych i ich stron internetowych metodami hackerskimi.

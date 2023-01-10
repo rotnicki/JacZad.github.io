@@ -1,16 +1,11 @@
 ---
-id: 2626
 title: 'Kilka słów o Pegazie'
 date: '2021-12-23T14:31:12+01:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Wszyscy teraz mówią i piszą o Pegasusie. Niektórzy cytują mit, poezję, a inni kategorycznie i mętnie zaprzeczają. A ja dzisiaj jestem foliarzem.'
 layout: post
-guid: 'https://informaton.blog/?p=2626'
-permalink: /2021/12/23/kilka-slow-o-pegazie/
 categories:
     - Zapiski
 tags:
-    - NSO
     - Pegasus
     - polityka
     - 'służby specjalne'

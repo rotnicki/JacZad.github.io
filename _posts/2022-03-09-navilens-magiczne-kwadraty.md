@@ -1,19 +1,15 @@
 ---
-id: 2669
-title: 'Navilens &#8211; magiczne kwadraty'
+title: 'Navilens - magiczne kwadraty'
 date: '2022-03-09T18:54:39+01:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Technologie coraz częściej przypominają magię. Robią coś, czego nie umiem zrozumieć, a jednocześnie jest to bardzo przydatne. Tak było z systemem Navilens, który testowałem na początku roku.'
 layout: post
-guid: 'https://informaton.blog/?p=2669'
-permalink: /2022/03/09/navilens-magiczne-kwadraty/
 categories:
     - artykuły
 tags:
     - mobilność
     - Navilens
-    - niewidomi
-    - ZTM
+    - 'osoby niewidome'
+    - 'aplikacje mobilne'
 ---
 
 Niemal cały styczeń upłynął mi na testowaniu rozwiązania o nazwie [Navilens](https://www.navilens.com/en/). Testy zostały zamówione przez Zakład Transportu Miejskiego w Warszawie. Ich celem było sprawdzenie, czy Navilens mogą być dobrym wsparciem dla niewidomych i słabowidzących pasażerów.

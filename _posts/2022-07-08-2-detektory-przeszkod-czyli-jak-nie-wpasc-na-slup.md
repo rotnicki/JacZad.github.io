@@ -10,5 +10,4 @@ categories:
 Rafał Charłampowicz opowiada o detektorach przeszkód dla osób niewidomych. Jest jedynym znanym mi użytkownikiem tego rodzaju urządzeń, a jednocześnie wie o nich prawie wszystko. Nie wie tylko, dlaczego są wciąż tak mało popularne. A są takie na podczerwień, ultradźwięki, laserowe. Można nosić je w ręku, na palcu, na białej lasce, na szyi jako wisiorek. Pozwalają uniknąć twardych przeszkód, znaleźć wolne miejsce w autobusie, odnaleźć wejście do budynku.
 
 
-<audio class="wp-audio-shortcode" controls="controls" id="audio-2789-5" preload="none" style="width: 100%;"><source src="https://anchor.fm/s/529b8668/podcast/play/54527128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F529b8668%2F54527128%2Fe9212070e469a40d832898e68f63353e.m4a?_=5" type="audio/mpeg"></source><https://anchor.fm/s/529b8668/podcast/play/54527128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F529b8668%2F54527128%2Fe9212070e469a40d832898e68f63353e.m4a></audio>
-
+<iframe src="https://anchor.fm/jaczad/embed/episodes/Detektory-przeszkd--czyli-jak-nie-wpa-na-sup-e1kuhmo" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

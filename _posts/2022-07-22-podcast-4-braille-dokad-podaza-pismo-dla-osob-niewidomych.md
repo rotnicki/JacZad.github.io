@@ -16,5 +16,4 @@ Roman Roczeń wie o alfabecie
 Braille'a wszystko, a przynajmniej tak twierdzi. Jest zatem najlepszym rozmówcą na ten temat. Wspólnie zastanawiamy się, jaka była przeszłość i jaka czeka przyszłość tego skądinąd genialnego systemu. Czy nadal jest najlepszym kanałem informacyjnym? A może jego lata świetności już minęły… Na koniec proponujemy określenie nowej roli i funkcji dla alfabetu Braille’a. Zapraszam wszystkich sześciokropkowców i innych, mniej związanych z sześciopunktem.
 
 
-<audio class="wp-audio-shortcode" controls="controls" id="audio-2796-7" preload="none" style="width: 100%;"><source src="https://anchor.fm/s/529b8668/podcast/play/55027286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F529b8668%2F55027286%2Fb1922662e67c640a5329d142d1ef4625.m4a?_=7" type="audio/mpeg"></source><https://anchor.fm/s/529b8668/podcast/play/55027286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F529b8668%2F55027286%2Fb1922662e67c640a5329d142d1ef4625.m4a></audio>
-
+<iframe src="https://anchor.fm/jaczad/embed/episodes/Braille---dokd-poda-pismo-dla-osb-niewidomych-e1ldq4m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

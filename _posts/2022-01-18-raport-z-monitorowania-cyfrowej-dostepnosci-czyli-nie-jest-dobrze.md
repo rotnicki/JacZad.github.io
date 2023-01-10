@@ -1,18 +1,14 @@
 ---
-id: 2633
 title: 'Raport z monitorowania cyfrowej dostępności, czyli nie jest dobrze'
 date: '2022-01-18T08:45:00+01:00'
 author: 'Jacek Zadrożny'
-excerpt: 'Pierwszy raport o cyfrowej dostępności z KPRM pokazuje smutny obraz.'
 layout: post
-guid: 'https://informaton.blog/?p=2633'
-permalink: /2022/01/18/raport-z-monitorowania-cyfrowej-dostepnosci-czyli-nie-jest-dobrze/
 categories:
     - artykuły
 tags:
-    - badanie
+    - badania
     - 'deklaracja dostępności'
-    - KPRM
+    - 'Kuba Dębski'
     - prawo
 ---
 

@@ -9,5 +9,4 @@ categories:
 ---
 Anna Żórawska jest prezeską Fundacji Kultury bez barier od samego początku. Dostępność kultury to jej pasja, życie i praca. Nie udało się nam porozmawiać o wszystkim, więc chyba spotkamy się ponownie. Tym razem porozmawiamy o Festiwalu kultury bez barier.
 
-<audio class="wp-audio-shortcode" controls="controls" id="audio-2801-10" preload="none" style="width: 100%;"><source src="https://anchor.fm/s/529b8668/podcast/play/56032209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F529b8668%2F56032209%2F094e28f02aaea364559314a4efad5b1d.m4a?_=10" type="audio/mpeg"></source><https://anchor.fm/s/529b8668/podcast/play/56032209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F529b8668%2F56032209%2F094e28f02aaea364559314a4efad5b1d.m4a></audio>
-
+<iframe src="https://anchor.fm/jaczad/embed/episodes/Kultura-bez-barier--czyli-co-moe-si-zdarzy-w-drugim-dniu-pracy-e1mcfgh" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
