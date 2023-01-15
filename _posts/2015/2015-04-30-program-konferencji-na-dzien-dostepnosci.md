@@ -8,7 +8,7 @@ tags:
     -"AccessibilityCamp'
     - audiodeskrypcja
     - audyt
-    - FDC
+    - 'Forum Dostępnej Cyberprzestrzeni'
     - 'język migowy'
     - prawo
 ---
@@ -16,7 +16,7 @@ tags:
 Dzisiaj obiecany program konferencji, która odbędzie się 21 maja 2015 roku w Warszawie. Program bogaty i ciekawy. No i będzie można wziąć udział w moim warsztacie poświęconym testowaniu dostępności serwisów internetowych.
 
 ### Program Konferencji  
- Dostępność informacji w sieci – Accessibility Camp 2015
+ Dostępność informacji w sieci – AccessibilityCamp 2015
 
 21 maja 2015
 

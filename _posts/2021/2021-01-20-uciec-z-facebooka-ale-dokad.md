@@ -1,29 +1,16 @@
 ---
-id: 2063
 title: 'Uciec z Facebooka, ale dokąd?'
 date: '2021-01-20T17:28:40+01:00'
-excerpt: 'Kilka zdań na temat <a rel="me" href="https://101010.pl/@jaczad">Mastodona</a> i ucieczki z Facebooka'
 layout: post
-guid: 'http://informaton.blog/?p=2063'
-permalink: /2021/01/20/uciec-z-facebooka-ale-dokad/
-timeline_notification:
-    - '1611160122'
-publicize_twitter_user:
-    - jaczad
-geo_public:
-    - '0'
 categories:
     - artykuły
 tags:
-    - Amaroq
-    - decentralizacja
+    - fediversum
     - Diaspora
     - 'donald Trump'
     - Facebook
     - Friendica
     - Mastodon
-    - Mercury
-    - Status
     - Twitter
 ---
 

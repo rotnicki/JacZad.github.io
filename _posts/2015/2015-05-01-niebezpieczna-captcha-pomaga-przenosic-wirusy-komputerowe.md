@@ -1,18 +1,13 @@
 ---
-id: 1327
 title: 'Niebezpieczna CAPTCHA pomaga przenosić wirusy komputerowe'
 date: '2015-05-01T10:26:18+02:00'
+Author: 'Jacek Zadrożny'
 layout: post
-guid: 'http://informaton.pl/?p=1327'
-permalink: /2015/05/01/niebezpieczna-captcha-pomaga-przenosic-wirusy-komputerowe/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - bezpieczeństwo
     - CAPTCHA
-    - PDF
     - wirusy
 ---
 
