@@ -1,12 +1,7 @@
 ---
-id: 1905
 title: 'Virtualo &#8211; księgarnia, która nie chce mi sprzedawać książek'
 date: '2019-02-08T15:42:16+01:00'
 layout: post
-guid: 'https://informaton.pl/?p=1905'
-permalink: /2019/02/08/virtualo-ksiegarnia-ktora-nie-chce-mi-sprzedawac-ksiazek/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:

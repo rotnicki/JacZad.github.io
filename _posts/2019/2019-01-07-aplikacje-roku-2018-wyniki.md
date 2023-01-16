@@ -1,14 +1,10 @@
 ---
-id: 1888
 title: 'Aplikacje roku 2018 &#8211; wyniki'
 date: '2019-01-07T08:37:57+01:00'
 layout: post
-guid: 'https://informaton.pl/?p=1888'
-permalink: /2019/01/07/aplikacje-roku-2018-wyniki/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
+tags: ['aplikacje mobilne', 'Apple']
 ---
 
 Już dwukrotnie przeprowadzałem taki plebiscyt, więc i obecnie zaproponowałem taką zabawę niewidomym użytkownikom urządzeń Apple. Zaprosiłem ich do nominowania aplikacji, a potem głosowania. Wczoraj głosowanie się zakończyło, więc pora na wyniki.
@@ -17,7 +13,7 @@ W plebiscycie było 11 kategorii, częściowo pokrywających się z tymi z AppSt
 
 ### Nawigacja
 
-To jedna z ważniejszych dla mnie kategorii. Apikacje mobilne mogą wspomagać osoby niewidome w samodzielnym poruszaniu się i ciekawe było sprawdzić, z których korzystali. Wyniki mnie nie zaskoczyły, poza brakiem niegdyś tak popularnej aplikacji Loadstone-GPS. Oddano na nią tylko 1 głos, więc nie znalazła się na liście.
+To jedna z ważniejszych dla mnie kategorii. Aplikacje mobilne mogą wspomagać osoby niewidome w samodzielnym poruszaniu się i ciekawe było sprawdzić, z których korzystali. Wyniki mnie nie zaskoczyły, poza brakiem niegdyś tak popularnej aplikacji Loadstone-GPS. Oddano na nią tylko 1 głos, więc nie znalazła się na liście.
 
 1. Seeing Assistant Move (27).
 2. Lazarillo (17.

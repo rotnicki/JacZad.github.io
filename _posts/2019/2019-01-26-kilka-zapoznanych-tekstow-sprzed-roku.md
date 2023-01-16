@@ -1,24 +1,17 @@
 ---
-id: 1903
 title: 'Kilka zapoznanych tekstów sprzed roku'
 date: '2019-01-26T19:25:54+01:00'
 layout: post
-guid: 'https://informaton.pl/?p=1903'
-permalink: /2019/01/26/kilka-zapoznanych-tekstow-sprzed-roku/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - Apple
-    - AR
+    - 'rozszerzona rzeczywistość'
     - BlaBlaCar
-    - iPhone
     - Microsoft
-    - niewidomi
+    - 'osoby niewidome'
     - Uber
-    - VDR
-    - VR
+    - 'wirtualna rzeczywistość'
 ---
 
 Trochę ponad rok temu napisałem serię artykułów do portalu Fundacji Trakt. Część z nich dotyczyła usług Google, a część – wykorzystania nowoczesnych technologii przez osoby niewidome. Postanowiłem je tu wrzucić, bo mam wrażenie, że tam są jakoś trudne do znalezienia. Zapraszam do lektury.

@@ -1,19 +1,17 @@
 ---
-id: 1885
 title: 'Czy potrzebny jest nam alfabet Braille’a?'
 date: '2019-01-05T12:40:23+01:00'
 layout: post
-guid: 'https://informaton.pl/?p=1885'
-permalink: /2019/01/05/czy-potrzebny-jest-nam-alfabet-braillea/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
+tags: ['braille', 'synteza mowy', e-booki', 'osoby niewidome']
 ---
 
 Wczoraj obchodzony był dzień alfabetu Braille’a. Obchodzony jest w rocznicę urodzin jego twórcy, czyli Louisa Braille’a, niewidomego wychowanka szkoły dla niewidomych dzieci. Zmodyfikował pomysł francuskiego wojskowego Charlesa Barbiera, który opracował system czytania dotykiem rozkazów po ciemku. System Braille’a był genialny w swej konstrukcji i dał możliwość czytania i pisania osobom niewidomym przez wiele kolejnych lat. Nigdy jednak nie był jedynym i nie był też pierwszym. Dlaczego zatem niektórzy tak rozpaczają nad jego marginalizacją?
 
-W środowisku osób niewidomych dyskusje o roli Braille’a toczą się od dłuższego czasu i są bardzo burzliwe. Zwolennicy nazywają analfabetami tych, którzy systemu nie znają. Ci drudzy wzruszają ramionami i pokazują statystyki, że czytają więcej książek, niż ci pierwsi. Więcej, bo w braille’u wydawanych jest bardzo mało książek i do tego wybór jest nader wątpliwy. Za to ebooków i audiobooków jest bardzo dużo i każdy znajdzie coś dla siebie. Dalej dyskusja toczy się zazwyczaj w kierunku takim, że w edukacji to braille jest niezbędny, a potem jest potrzebny przynajmniej tym, którzy są tłumaczami, programistami, matematykami. W ostatniej dyskusji jednak programiści zaprotestowali, że obywają się bez braille’a bez problemu. O co zatem chodzi?
+W środowisku osób niewidomych dyskusje o roli Braille’a toczą się od dłuższego czasu i są bardzo burzliwe. Zwolennicy nazywają analfabetami tych, którzy systemu nie znają. Ci drudzy wzruszają ramionami i pokazują statystyki, że czytają więcej książek, niż ci pierwsi. Więcej, bo w braille’u wydawanych jest bardzo mało książek i do tego wybór jest nader wątpliwy. Za to ebooków i audiobooków jest bardzo dużo i każdy znajdzie coś dla siebie.
+
+Dalej dyskusja toczy się zazwyczaj w kierunku takim, że w edukacji to braille jest niezbędny, a potem jest potrzebny przynajmniej tym, którzy są tłumaczami, programistami, matematykami. W ostatniej dyskusji jednak programiści zaprotestowali, że obywają się bez braille’a bez problemu. O co zatem chodzi?
 
 Wydaje się, że chodzi o monopol. Jedna technologia asystująca, jaką było pismo braille’a jest wypierane przez inną, to znaczy sztuczną mowę. Zwolennicy obu będą się zawsze spierać, aż któraś ulegnie całkowicie lub znajdzie się w takiej niszy, że nikt już z niej się nie odezwie w dyskusji. I wydaje się to dosyć naturalne, jak się nad tym zastanowić.
 
