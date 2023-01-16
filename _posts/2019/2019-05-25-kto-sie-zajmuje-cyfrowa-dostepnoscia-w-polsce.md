@@ -1,24 +1,10 @@
 ---
-id: 2019
 title: 'Kto się zajmuje cyfrową dostępnością w Polsce?'
 date: '2019-05-25T11:53:30+02:00'
 layout: post
-guid: 'http://informaton.blog/?p=2019'
-permalink: /2019/05/25/kto-sie-zajmuje-cyfrowa-dostepnoscia-w-polsce/
-timeline_notification:
-    - '1558778014'
-publicize_twitter_user:
-    - jaczad
-publicize_linkedin_url:
-    - ''
 categories:
     - artykuły
-tags:
-    - ARIA
-    - audyt
-    - badania
-    - 'Jakub Dębski'
-    - WCAG
+tags: [badania, 'Kuba Dębski', WCAG]
 ---
 
 Jakub Dębski postawił to tytułowe pytanie ponad rok temu. Wreszcie doczekaliśmy się odpowiedzi, która w zasadzie w ogóle mnie nie zaskoczyła. Dobrze jest zweryfikować swoje podejrzenia wynikami badań, ale spodziewałem się takich wyników.
