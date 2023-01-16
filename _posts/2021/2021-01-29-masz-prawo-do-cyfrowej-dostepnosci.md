@@ -1,24 +1,11 @@
 ---
-id: 2070
 title: 'Masz prawo do cyfrowej dostępności'
 date: '2021-01-29T18:45:57+01:00'
 excerpt: 'Krótki poradnik, co zrobić napotykając brak dostępności cyfrowej na stronach podmiotów publicznych.'
 layout: post
-guid: 'http://informaton.blog/?p=2070'
-permalink: /2021/01/29/masz-prawo-do-cyfrowej-dostepnosci/
-timeline_notification:
-    - '1611942361'
-publicize_twitter_user:
-    - jaczad
-publicize_linkedin_url:
-    - ''
 categories:
     - artykuły
-tags:
-    - prawo
-    - skarga
-    - 'ustawa o dostępności cyfrowej'
-    - zadanie
+tags: [prawo, skarga, 'ustawa o dostępności cyfrowej', 'żądanie']
 ---
 
 Ostatnio na Twitterze dostałem pytanie, co właściwie daje ustawa o cyfrowej dostępności. Wydawało mi się to oczywiste, ale jednak język przepisów trzeba przetłumaczyć na ludzki. Tym bardziej, że przepisy są skonstruowane w taki sposób, że zmiana nastąpi pod wpływem nacisku obywateli, a nie urzędników. Poniżej zatem tutorial, jak walczyć o cyfrową dostępność.
