@@ -1,21 +1,14 @@
 ---
-id: 2367
 title: 'Karteczka z zaklęciami do NVDA'
 date: '2021-06-15T15:21:25+02:00'
 excerpt: 'Jeżeli ktoś potrzebuje, to może skorzystać z żółtej karteczki ze skrótami do NVDA.'
 layout: post
-guid: 'http://informaton.blog/?p=2367'
-permalink: /2021/06/15/karteczka-z-zakleciami-do-nvda/
-timeline_notification:
-    - '1623763289'
-publicize_twitter_user:
-    - jaczad
 categories:
     - artykuły
 tags:
     - NVDA
     - 'skróty klawiszowe'
-    - webinaria
+    - webinarium
 ---
 
 Tydzień temu odbył się webinar na temat korzystania z czytnika ekranu NVDA. Tempo było chyba zbyt duże, bo uczestnicy nie wszystko zapamiętali lub zapisali. Poniżej zatem przypominajki.
