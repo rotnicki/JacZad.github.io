@@ -1,19 +1,10 @@
 ---
-id: 701
 title: 'Refleksje po Accessibility Camp 2013'
 date: '2013-05-13T19:01:09+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=701'
-permalink: /2013/05/13/refleksje-po-accessibility-camp-2013/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
-tags:
-    - 'Accessibility Camp'
-    - prawo
-    - semantyka
-    - 'WCAG 2.0'
+tags: ['AccessibilityCamp', prawo, semantyka, 'WCAG']
 ---
 
 W ubiegły czwartek odbył się Accessibility Camp. Krótko i sympatycznie napisano o nim na [stronach Ministerstwa Administracji i Cyfryzacji](https://mac.gov.pl/dzialania/accessibility-camp-w-warszawie-dostepnosc-serwisow-szansa-dla-wszystkich/), więc ja już nie będę referował. Za to podzielę się kilkoma refleksjami z części zupełnie nietechnicznej, czyli z samego początku imprezy.
