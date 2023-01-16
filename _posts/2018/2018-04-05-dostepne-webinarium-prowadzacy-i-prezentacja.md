@@ -1,22 +1,17 @@
 ---
-id: 1827
 title: 'Dostępne webinarium &#8211; prowadzący i prezentacja'
 date: '2018-04-05T13:41:39+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1827'
-permalink: /2018/04/05/dostepne-webinarium-prowadzacy-i-prezentacja/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - audiodeskrypcja
-    - filmy
+- film
     - napisy
     - poradnik
-    - prezentacje
+    - prezentacja
     - tutorial
-    - webinaria
+    - webinarium
 ---
 
 Webinaria często przyjmują postać nagrania osoby mówiącej na jakiś temat, a w tle widoczna jest prezentacja. Taki film musi spełniać wymagania dotyczące filmów, a zatem zapisane w wytycznej 1.2 WCAG 2.0. Jednak specyfika takiej formy sprawia, że trzeba przyjrzeć się takiemu medium uważniej, ponieważ ważne są też inne elementy. Zatem poniżej lista wskazówek, co zrobić by taki film był dostępny.
