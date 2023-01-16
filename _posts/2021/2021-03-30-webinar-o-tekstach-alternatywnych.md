@@ -1,15 +1,8 @@
 ---
-id: 2155
 title: 'Webinar o tekstach alternatywnych'
 date: '2021-03-30T09:00:00+02:00'
 excerpt: 'Skoro już nagrali i opublikowali, to wrzucam. W rolach głównych: Jacek Zadrożny i Robert więckowski.'
 layout: post
-guid: 'http://informaton.blog/?p=2155'
-permalink: /2021/03/30/webinar-o-tekstach-alternatywnych/
-timeline_notification:
-    - '1617087610'
-publicize_twitter_user:
-    - jaczad
 categories:
     - filmy
 tags:
@@ -18,7 +11,7 @@ tags:
     - napisy
     - 'tekst alternatywny'
     - Warszawa
-    - webinaria
+    - webinarium
 ---
 
 Razem z Robertem Więckowskim przeprowadziliśmy webinar na temat tekstów alternatywnych. Ja mówiłem o teorii, a Robert – o praktyce. A ponieważ wyszło dość fajnie, to podrzucam. Uprzedzam jedynie, że dłuuugie.
