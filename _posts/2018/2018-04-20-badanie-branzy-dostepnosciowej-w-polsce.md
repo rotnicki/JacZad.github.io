@@ -1,18 +1,11 @@
 ---
-id: 1843
 title: 'Badanie branży dostępnościowej w Polsce'
 date: '2018-04-20T08:05:40+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1843'
-permalink: /2018/04/20/badanie-branzy-dostepnosciowej-w-polsce/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - ankieta
     - badania
-    - D+
     - 'Dostępność Plus'
 ---
 
