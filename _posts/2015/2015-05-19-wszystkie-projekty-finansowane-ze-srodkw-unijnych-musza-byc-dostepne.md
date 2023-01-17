@@ -1,22 +1,14 @@
 ---
-id: 1340
 title: 'Wszystkie projekty finansowane ze środków unijnych muszą być dostępne'
 date: '2015-05-19T07:41:47+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1340'
-permalink: /2015/05/19/wszystkie-projekty-finansowane-ze-srodkw-unijnych-musza-byc-dostepne/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - EFRR
-    - EFS
-    - KRI
     - pieniądze
-    - POWER
     - 'Unia Europejska'
-    - 'WCAG 2.0'
+    - 'WCAG'
+    - 'standardy'
 ---
 
 Pani Maria Wasiak – Minister Infrastruktury i Rozwoju zatwierdziła dokument pt. [Wytyczne w zakresie realizacji zasady równości szans i niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami oraz zasady równości szans kobiet i mężczyzn w ramach funduszy unijnych na lata 2014-2020.](http://www.funduszeeuropejskie.gov.pl/media/2470/Wytyczne_zasady_rownosci_szans12052015.pdf) To bardzo ważny dokument, który określa sposób realizacji wszystkich projektów finansowanych z funduszy unijnych, jak Europejski Fundusz Społeczny i Europejski Fundusz Rozwoju Regionalnego.
