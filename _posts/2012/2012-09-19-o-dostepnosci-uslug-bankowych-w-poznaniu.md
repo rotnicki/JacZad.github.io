@@ -1,21 +1,16 @@
 ---
-id: 257
 title: 'O dostępności usług bankowych w Poznaniu'
 date: '2012-09-19T22:04:00+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=257'
-permalink: /2012/09/19/o-dostepnosci-uslug-bankowych-w-poznaniu/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - bankowość
-    - 'BZ WBK'
-    - FDC
-    - głusi
-    - mobilne
-    - niewidomi
+    - 'Forum Dostępnej Cyberprzestrzeni'
+    - 'osoby głuche'
+    - Poznań
+    - 'aplikacje mobilne'
+    - 'osoby niewidome'
 ---
 
 ![Logo Forum Dostępnej Cyberprzestrzeni](http://profile.ak.fbcdn.net/hprofile-ak-snc6/203607_170435316331616_6247919_q.jpg)Całą środę 19 września 2012 roku spędziłem w Poznaniu na seminarium poświęconym dostępności usług bankowych. Zorganizowało je Forum Dostępnej Cyberprzestrzeni – organizacja zrzeszająca różne podmioty zajmujące się dostępnością informacji w Internecie i nie tylko. Poniżej krótkie sprawozdanie, a może wkrótce podlinkuję jakieś materiały.
