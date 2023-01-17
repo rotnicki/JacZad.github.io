@@ -4,8 +4,7 @@ date: '2015-04-30T09:51:06+02:00'
 layout: post
 categories:
     - artykuły
-tags: ['AccessibilityCamp', audiodeskrypcja, audyt, 'Forum Dostępnej Cyberprzestrzeni'
-    - 'język migowy', prawo]
+tags: ['AccessibilityCamp', audiodeskrypcja, audyt, 'Forum Dostępnej Cyberprzestrzeni', 'język migowy', prawo]
 ---
 
 Dzisiaj obiecany program konferencji, która odbędzie się 21 maja 2015 roku w Warszawie. Program bogaty i ciekawy. No i będzie można wziąć udział w moim warsztacie poświęconym testowaniu dostępności serwisów internetowych.
