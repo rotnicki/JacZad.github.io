@@ -1,17 +1,10 @@
 ---
-title: 'Dostępne webinarium &#8211; prowadzący i prezentacja'
+title: 'Dostępne webinarium: prowadzący i prezentacja'
 date: '2018-04-05T13:41:39+02:00'
 layout: post
 categories:
     - artykuły
-tags:
-    - audiodeskrypcja
-- film
-    - napisy
-    - poradnik
-    - prezentacja
-    - tutorial
-    - webinarium
+tags: ['napisy na żywo', 'prezentacja', 'tutorial', 'webinarium']
 ---
 
 Webinaria często przyjmują postać nagrania osoby mówiącej na jakiś temat, a w tle widoczna jest prezentacja. Taki film musi spełniać wymagania dotyczące filmów, a zatem zapisane w wytycznej 1.2 WCAG 2.0. Jednak specyfika takiej formy sprawia, że trzeba przyjrzeć się takiemu medium uważniej, ponieważ ważne są też inne elementy. Zatem poniżej lista wskazówek, co zrobić by taki film był dostępny.
