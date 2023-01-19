@@ -1,19 +1,15 @@
 ---
-id: 636
 title: 'Akces Lab &#8211; sukces w obszarze audytowania dostępności stron internetowych'
 date: '2013-03-19T11:26:10+01:00'
 layout: post
-guid: 'http://informaton.pl/?p=636'
-permalink: /2013/03/19/akces-lab-sukces-w-obszarze-audytowania-dostepnosci-stron-internetowych/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - 'Akces Lab'
     - audyt
-    - 'WCAG 2.0'
     - wywiad
+    - 'Adam Pietrasiewicz'
+    - 'Mateusz Ciborowski'
 ---
 
 Spotkaliśmy się we włoskiej restauracji na warszawskim Nowym Świecie, gdzie przy kawie i butelce wina rozmawialiśmy o dostępności stron internetowych. Moimi gośćmi byli Adam Pietrasiewicz i Mateusz Ciborowski ze [spółdzielni socjalnej Akces Lab](http://www.akceslab.pl). Artykuł nie jest sponsorowany.
