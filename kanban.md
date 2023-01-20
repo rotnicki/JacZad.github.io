@@ -52,7 +52,7 @@ Nazwa powinna być opisowa, a aplikacja powinna podpowiadać gotowe schematy. By
 
 Do wyboru:
 
-- [ ] cyfrowa
+- cyfrowa
 - architektoniczna
 - informacyjno-komunikacyjna
 - inny obszar
