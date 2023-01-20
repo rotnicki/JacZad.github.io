@@ -4,7 +4,7 @@ date: '2019-01-05T12:40:23+01:00'
 layout: post
 categories:
     - artykuły
-tags: ['braille', 'synteza mowy', e-booki', 'osoby niewidome']
+tags: ['braille', 'synteza mowy', 'e-booki', 'osoby niewidome']
 ---
 
 Wczoraj obchodzony był dzień alfabetu Braille’a. Obchodzony jest w rocznicę urodzin jego twórcy, czyli Louisa Braille’a, niewidomego wychowanka szkoły dla niewidomych dzieci. Zmodyfikował pomysł francuskiego wojskowego Charlesa Barbiera, który opracował system czytania dotykiem rozkazów po ciemku. System Braille’a był genialny w swej konstrukcji i dał możliwość czytania i pisania osobom niewidomym przez wiele kolejnych lat. Nigdy jednak nie był jedynym i nie był też pierwszym. Dlaczego zatem niektórzy tak rozpaczają nad jego marginalizacją?
