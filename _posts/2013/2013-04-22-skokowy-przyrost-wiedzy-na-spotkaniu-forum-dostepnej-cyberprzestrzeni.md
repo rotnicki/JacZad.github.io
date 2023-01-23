@@ -1,23 +1,18 @@
 ---
-id: 680
 title: 'Skokowy przyrost wiedzy na spotkaniu Forum Dostępnej Cyberprzestrzeni'
 date: '2013-04-22T11:10:13+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=680'
-permalink: /2013/04/22/skokowy-przyrost-wiedzy-na-spotkaniu-forum-dostepnej-cyberprzestrzeni/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
-    - FDC
+    - 'Forum Dostępnej Cyberprzestrzeni'
     - 'język migowy'
     - klawiatura
-    - mysz
+    - myszka
     - napisy
     - 'pętla indukcyjna'
     - ruch
-    - 'WCAG 2.0'
+    - 'WCAG'
 ---
 
 Mam własne kryterium oceny przydatności wszelkiego rodzaju szkoleń, warsztatów, seminariów i konferencji. Jeżeli dowiaduję się czegoś nowego lub przynajmniej starego, ale pokazanego z innego punktu widzenia – uznaję czas za nie stracony. Jeżeli 40 procent informacji było dla mnie nowych lub pokazanych inaczej (głębiej, szerzej, kompetentniej) – uznaję całość za udaną. Biorąc to kryterium uznaję spotkanie zorganizowane przez [Forum Dostępnej Cyberprzestrzeni](http://fdc.org.pl) w sobotę i niedzielę 20-21 kwietnia za bardzo udane.
