@@ -1,20 +1,15 @@
 ---
-id: 1724
 title: 'Następny skok cywilizacyjny może wypchnąć osoby niewidome za burtę'
 date: '2017-09-05T12:45:02+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1724'
-permalink: /2017/09/05/nastepny-skok-cywilizacyjny-moze-wypchnac-osoby-niewidome-za-burte/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
 tags:
     - matematyka
-    - niewidomi
+    - 'osoby niewidome'
     - przyszłość
     - tabele
-    - wykr
+    - wykresy
 ---
 
 Do napisania tego tekstu skłoniła mnie lektura książki pt. “Przeciw bogom. Niezwykłe dzieje ryzyka” Petera L. Bernsteina. Książka traktuje o początkach rachunku prawdopodobieństwa i szacowaniu ryzyka. Jest jednak bardzo przekrojowa, więc zaczyna się od samego początku matematyki, czyli od czasów starożytnych, a nawet prehistorycznych. Autor opisuje w niej początki matematyki, liczenie sztuk, tworzenie pierwszych zapisów matematycznych, podejście do losowości w hazardzie. Jeden z wątków szczególnie mnie zainteresował i nasunął refleksje, z którymi chcę się tu podzielić.
