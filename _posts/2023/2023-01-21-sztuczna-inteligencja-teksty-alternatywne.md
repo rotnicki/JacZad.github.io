@@ -1,4 +1,4 @@
-  ---
+---
 title: Sztuczna inteligencja i alternatywy tekstowe
 author: Jacek Zadrożny
 date: 2023-01-21
