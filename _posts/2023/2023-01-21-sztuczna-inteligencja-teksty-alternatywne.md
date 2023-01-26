@@ -1,4 +1,4 @@
----
+  ---
 title: Sztuczna inteligencja i alternatywy tekstowe
 author: Jacek Zadrożny
 date: 2023-01-21
@@ -13,7 +13,7 @@ Czy można użyć sztuczną inteligencję do tworzenia tekstów alternatywnych d
 
 Mamy w domu uroczą kotkę o imieniu Bajka. Kto ma kota, ten wie że wcale nie ma kota. To kot ma nas i rządzi autorytarnie. Pomyślałem sobie, że zilustruję to grafiką z kotem w koronie. Postanowiłem użyć do tego sztucznej inteligencji, a dokładniej - aplikacji DiffusionBee. Poprosiłem ją o wygenerowanie czerwonego kota z koroną na głowie. A oto efekt.
 
-![Pomarańczowy kot z koroną na głowie i czerwona bombka obok](./assets/img/kot-korona.png)
+![Pomarańczowy kot z koroną na głowie i czerwona bombka obok](../assets/img/kot-korona.png)
 
 Jak widać - kot nie jest czerwony, ale koronę ma. Okazało się, że nie można w ciemno ufać, że sztuczna inteligencja wygeneruje mi dokładnie to, czego oczekuję. W aplikacji można ustawić większą lub mniejszą swobodę w interpretowaniu tekstu, który wprowadziłem. Efekt jednak nie bardzo się zmieniał.
 
