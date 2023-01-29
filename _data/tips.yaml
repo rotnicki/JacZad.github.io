@@ -4,37 +4,37 @@
   icon: calendar
 
 - date: 2023-02-02
-  text: "W edytorze Word możesz dodać do grafiki tekst alternatywny. Oczywiście tylko wtedy, gdy jest potrzebny. Kliknij na grafice prawym przyciskiem myszy i wybierz opcję **Tekst alternatywny**. W każdej wersji Worda ta opcja może być w innym miejscu i nazywać się inaczej. Jeżeli tekst alternatywny nie jest potrzebny, zaznacz pole **Grafika ozdobna**. Jeżeli w tym oknie masz pola **Tytuł** i **Opis**, tekst alternatywny wpisz w pole Opis."
+  text: "W edytorze Word możesz dodać do grafiki **tekst alternatywny**. Oczywiście tylko wtedy, gdy jest potrzebny. Kliknij na grafice prawym przyciskiem myszy i wybierz opcję **Tekst alternatywny**. W każdej wersji Worda ta opcja może być w innym miejscu i nazywać się nieco inaczej. Jeżeli tekst alternatywny nie jest potrzebny, zaznacz pole **Grafika ozdobna**. Jeżeli w tym oknie masz pola **Tytuł** i **Opis**, tekst alternatywny wpisz w pole Opis."
   url:
   icon: info
   
 - date: 2023-02-03
-  text: "W edytorach tekstu semantyka ukryta jest w stylach. Prawidłowo użyte style zdecydowanie poprawią dostępność dokumentu. Wywołaj zestaw stylów za pomocą skrótu **Ctrl Shift s** i przejrzyj style oferowane w arkuszu. Najważniejsze to <ul><li>Tytuł</li><li>Nagłówek 1</li><li>Tekst podstawowy</li><li>Akapit z listą</li></ul> Ten zestaw wystarcza dla większości dokumentów. Jeżeli zajdzie potrzeba - użyj nagłówków na kolejnych poziomach, a także cytatów, wyróżnień i innych."
+  text: "W edytorach tekstu semantyka ukryta jest w stylach. Prawidłowo użyte style zdecydowanie poprawią dostępność dokumentu. Wywołaj zestaw stylów za pomocą skrótu **Ctrl Shift s** i przejrzyj style oferowane w arkuszu. Najważniejsze to <ul><li>Tytuł</li><li>Nagłówek 1</li><li>Tekst podstawowy</li><li>Akapit z listą</li></ul> Ten zestaw wystarcza dla większości dokumentów. Jeżeli zajdzie potrzeba - użyj nagłówków na kolejnych poziomach, a także cytatów, wyróżnień i innych stylów."
   url:
   icon: info
 
 - date: 2023-02-04
-  text: ""
+  text: "W dokumencie wstawiaj tabelę za pomocą polecenia **Wstaw tabelę**. Od razu możesz wybrać, ile wierszy i kolumn będzie miała tabela. Unikaj pustych wierszy i kolumn, bo mogą zdezorientować osoby z niepełnosprawnością wzroku. Zbędne wiersze i kolumny usuwaj."
   url:
-  icon:
+  icon: info
 
 - date: 2023-02-05
-  text: ""
+  text: "Stosuj **czytelne i dobrze znane czcionki**. Nie powinny być zbyt cienkie, bo wtedy nawet dobry kontrast nie pomoże. Jeżeli dokument jest przeznaczony do wydruku, użyj czcionki w rozmiarze przynajmniej **11 lub 12 punktów** i interlinii 1,2-1,3 rozmiaru podstawowego."
   url:
-  icon:
+  icon: info
 
 - date: 2023-02-06
-  text: ""
+  text: "Pamiętaj o **dobrym kontraście** pomiędzy tłem i tekstem. I nigdy nie wstawiaj grafik i teł pod tekst, bo całość nie będzie czytelna. Pamiętaj, że **nie każdy widzi tak samo**!"
   url:
   icon:
-
+ info
 - date: 2023-02-07
-  text: ""
+  text: "Duże dokumenty potrzebują **systemu nawigacji**. Zastosuj **nagłówki** w odpowiedniej hierarchii, **spis  treści**, numerowanie stron, żywe paginy, indeksy. Wspomagaj czytelnika, żeby nie zagubił się w dokumencie."
   url:
-  icon:
+  icon: info
 
 - date: 2023-02-08
-  text: ""
+  text: "Nigdy nie używaj spacji do rozstrzelania tekstu "
   url:
   icon:
 
