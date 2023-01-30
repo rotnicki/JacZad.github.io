@@ -40,10 +40,9 @@ tips:
   url:
   icon: tool
 - date: 2023-02-11
-  text: ""
+  text: "W dokumentach tekstowych często stosowane są **listy numerowane**, czyli takie z liczbami lub literami. Stosuj je do elementów, dla których kolejność lub liczba jest istotna. Word będzie Ci pomagał tworzyć taką listę, ale Ty też mu pomóż. Jeżeli wpiszesz 1. i dodasz spację, to Word sam zacznie taką listę numerowaną. Jeżeli wpiszesz już wszystkie elementy, naciśnij Enter dwukrotnie. Word skończy listę i przejdzie do tekstu podstawowego."
   url:
-  icon:
-
+  icon: info
 - date: 2023-02-12
   text: ""
   url:
