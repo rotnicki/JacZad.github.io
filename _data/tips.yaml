@@ -12,22 +12,21 @@ tips:
   url:
   icon: info
 - date: 2023-02-04
-   text: "W dokumencie wstawiaj tabelę za pomocą polecenia **Wstaw tabelę**. Od razu możesz wybrać, ile wierszy i kolumn będzie miała tabela. Unikaj pustych wierszy i kolumn, bo mogą zdezorientować osoby z niepełnosprawnością wzroku. Zbędne wiersze i kolumny usuwaj."
+  text: "W dokumencie wstawiaj tabelę za pomocą polecenia **Wstaw tabelę**. Od razu możesz wybrać, ile wierszy i kolumn będzie miała tabela. Unikaj pustych wierszy i kolumn, bo mogą zdezorientować osoby z niepełnosprawnością wzroku. Zbędne wiersze i kolumny usuwaj."
   url:
   icon: info
 - date: 2023-02-05
-   text: "Stosuj **czytelne i dobrze znane czcionki**. Nie powinny być zbyt cienkie, bo wtedy nawet dobry kontrast nie pomoże. Jeżeli dokument jest przeznaczony do wydruku, użyj czcionki w rozmiarze przynajmniej **11 lub 12 punktów** i interlinii 1,2-1,3 rozmiaru podstawowego."
+  text: "Stosuj **czytelne i dobrze znane czcionki**. Nie powinny być zbyt cienkie, bo wtedy nawet dobry kontrast nie pomoże. Jeżeli dokument jest przeznaczony do wydruku, użyj czcionki w rozmiarze przynajmniej **11 lub 12 punktów** i interlinii 1,2-1,3 rozmiaru podstawowego."
   url:
   icon: info
 - date: 2023-02-06
   text: "Pamiętaj o **dobrym kontraście** pomiędzy tłem i tekstem. I nigdy nie wstawiaj grafik i teł pod tekst, bo całość nie będzie czytelna. Pamiętaj, że **nie każdy widzi tak samo**!"
-    url:
-    icon: info
+  url:
+  icon: info
 - date: 2023-02-07
   text: "Duże dokumenty potrzebują **systemu nawigacji**. Zastosuj **nagłówki** w odpowiedniej hierarchii, **spis  treści**, numerowanie stron, żywe paginy, indeksy. Wspomagaj czytelnika, żeby nie zagubił się w dokumencie."
   url:
   icon: info
-
 - date: 2023-02-08
   text: "Nigdy nie używaj spacji do rozstrzelania tekstu "
   url:
