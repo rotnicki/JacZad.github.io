@@ -1,14 +1,14 @@
 tips:
 - date: 2023-02-01
-  text: "Luty będzie miesiącem porad związanych z dostępnością dokumentów. Podpowiemy, jak tworzyć dostępne dokumenty w pakietach biurowych, w tym tych od firmy Microsoft, w LibreOffice i Dokumentach Google. Odwiedzaj nas, a na pewno czegoś się nauczysz."
+  text: "Luty będzie miesiącem porad związanych z dostępnością dokumentów tekstowych. Podpowiemy, jak tworzyć dostępne dokumenty w edytorze Word.. Odwiedzaj nas, a na pewno czegoś się nauczysz. Pamiętaj - każda porada wyświetlana jest tylko w jednym dniu!"
   url:
   icon: calendar
 - date: 2023-02-02
   text: "W edytorze Word możesz dodać do grafiki **tekst alternatywny**. Oczywiście tylko wtedy, gdy jest potrzebny. Kliknij na grafice prawym przyciskiem myszy i wybierz opcję **Tekst alternatywny**. W każdej wersji Worda ta opcja może być w innym miejscu i nazywać się nieco inaczej. Jeżeli tekst alternatywny nie jest potrzebny, zaznacz pole **Grafika ozdobna**. Jeżeli w tym oknie masz pola **Tytuł** i **Opis**, tekst alternatywny wpisz w pole Opis."
-  url: ''
+  url: 
   icon: info
 - date: 2023-02-03
-  text: "W edytorach tekstu semantyka ukryta jest w stylach. Prawidłowo użyte style zdecydowanie poprawią dostępność dokumentu. Wywołaj zestaw stylów za pomocą skrótu **Ctrl Shift s** i przejrzyj style oferowane w arkuszu. Najważniejsze to <ul><li>Tytuł</li><li>Nagłówek 1</li><li>Tekst podstawowy</li><li>Akapit z listą</li></ul> Ten zestaw wystarcza dla większości dokumentów. Jeżeli zajdzie potrzeba - użyj nagłówków na kolejnych poziomach, a także cytatów, wyróżnień i innych stylów."
+  text: "W edytorach tekstu semantyka ukryta jest w **stylach**. Prawidłowo użyte style zdecydowanie poprawią dostępność dokumentu. Wywołaj zestaw stylów za pomocą skrótu **Ctrl Shift s** i przejrzyj style oferowane w arkuszu. Najważniejsze to <ul><li>Tytuł</li><li>Nagłówek 1</li><li>Tekst podstawowy</li><li>Akapit z listą</li></ul> Ten zestaw wystarcza dla większości dokumentów. Jeżeli zajdzie potrzeba - użyj nagłówków na kolejnych poziomach, a także cytatów, wyróżnień i innych stylów."
   url:
   icon: info
 - date: 2023-02-04
@@ -20,7 +20,7 @@ tips:
   url:
   icon: info
 - date: 2023-02-06
-  text: "Pamiętaj o **dobrym kontraście** pomiędzy tłem i tekstem. I nigdy nie wstawiaj grafik i teł pod tekst, bo całość nie będzie czytelna. Pamiętaj, że **nie każdy widzi tak samo**!"
+  text: "Pamiętaj o **dobrym kontraście** pomiędzy tłem i tekstem. I **nigdy** nie wstawiaj grafik i teł pod tekst, bo całość nie będzie czytelna. Pamiętaj, że **nie każdy widzi tak samo**!"
   url:
   icon: info
 - date: 2023-02-07
@@ -28,20 +28,17 @@ tips:
   url:
   icon: info
 - date: 2023-02-08
-  text: "Nigdy nie używaj spacji do rozstrzelania tekstu "
+  text: "Nigdy nie używaj spacji do rozstrzelania tekstu. Jeżeli chcesz, żeby litery w wyrazie były ustawione szerzej, niż to jest standardowo, użyj czcionki w wersji rozstrzelonej. Zaznacz tekst, wybierz formatowanie czcionki i w zakładce Zaawansowane wybierz z listy Odstępy wersję rozstrzelone. W ten sposób wyraz pozostanie wyrazem, a nie serią liter rozdzielonych spacjami."
   url:
-  icon:
-
+  icon: danger
 - date: 2023-02-09
-  text: ""
+  text: "Jeżeli chcesz przejść z tekstem na kolejną stronę, nie wstawiaj pustych wierszy za pomocą klawisza Enter. To utrudnia czytanie. Za to możesz wstawić **znak końca strony** i wtedy dokładnie w tym miejscu strona się skończy. Zamiast Enter naciśnij **Control Enter** i wszystko będzie piękne."
   url:
-  icon:
-
+  icon: info
 - date: 2023-02-10
-  text: ""
+  text: "Edytor Word ma wbudowany **walidator dostępności** dokumentów. W nowszych wersjach edytora znajdziesz go w zakładce **Recenzja** pod nazwą **Ułatwienia dostępu**. Otwórz dokument i kliknij na **Sprawdź ułatwienia dostępu**, a Word przygotuje dla Ciebie raport. Pokaże Ci brakujące teksty alternatywne, słabe kontrasty i inne problemy. Popraw błędy i pamiętaj, że automat nie znajdzie wszystkiego."
   url:
-  icon:
-
+  icon: tool
 - date: 2023-02-11
   text: ""
   url:
