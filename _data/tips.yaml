@@ -5,11 +5,11 @@ tips:
   icon: calendar
 - date: 2023-02-02
   text: "W edytorze Word możesz dodać do grafiki **tekst alternatywny**. Oczywiście tylko wtedy, gdy jest potrzebny. Kliknij na grafice prawym przyciskiem myszy i wybierz opcję **Tekst alternatywny**. W każdej wersji Worda ta opcja może być w innym miejscu i nazywać się nieco inaczej. Jeżeli tekst alternatywny nie jest potrzebny, zaznacz pole **Grafika ozdobna**. Jeżeli w tym oknie masz pola **Tytuł** i **Opis**, tekst alternatywny wpisz w pole Opis."
-  url:
+  url: ''
   icon: info
 - date: 2023-02-03
   text: "W edytorach tekstu semantyka ukryta jest w stylach. Prawidłowo użyte style zdecydowanie poprawią dostępność dokumentu. Wywołaj zestaw stylów za pomocą skrótu **Ctrl Shift s** i przejrzyj style oferowane w arkuszu. Najważniejsze to <ul><li>Tytuł</li><li>Nagłówek 1</li><li>Tekst podstawowy</li><li>Akapit z listą</li></ul> Ten zestaw wystarcza dla większości dokumentów. Jeżeli zajdzie potrzeba - użyj nagłówków na kolejnych poziomach, a także cytatów, wyróżnień i innych stylów."
-   url:
+  url:
   icon: info
 - date: 2023-02-04
    text: "W dokumencie wstawiaj tabelę za pomocą polecenia **Wstaw tabelę**. Od razu możesz wybrać, ile wierszy i kolumn będzie miała tabela. Unikaj pustych wierszy i kolumn, bo mogą zdezorientować osoby z niepełnosprawnością wzroku. Zbędne wiersze i kolumny usuwaj."
