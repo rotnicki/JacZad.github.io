@@ -44,10 +44,9 @@ tips:
   url:
   icon: info
 - date: 2023-02-12
-  text: ""
+  text: "Nie uwierzysz, jakie informacje zostawiają w dokumentach osoby, które potem publikują je na stronie internetowej. Zanim wyślesz plik do kogoś, sprawdź **metadane** i **usuń niepotrzebne informacje**. Zajrzyj do zakładki **Plik**, a tam do pozycji **Informacje**. Kliknij na **Inspekcja dokumentu** i usuń to, co uznasz za zbędne. Pamiętaj też, żeby we właściwościach pliku wpisać przynajmniej **tytuł dokumentu**."
   url:
-  icon:
-
+  icon: tool
 - date: 2023-02-13
   text: ""
   url:
