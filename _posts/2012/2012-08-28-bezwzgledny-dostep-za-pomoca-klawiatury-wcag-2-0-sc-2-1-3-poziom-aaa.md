@@ -1,15 +1,9 @@
 ---
-title: 'Bezwzględny dostęp za pomocą klawiatury (WCAG 2.0 SC 2.1.3, poziom AAA)'
+title: 'Bezwzględny dostęp za pomocą klawiatury (WCAG SC 2.1.3, poziom AAA)'
 date: '2012-08-28T09:37:00+02:00'
 layout: post
-categories:
-    - WCAG
-tags:
-    - interfejs
-    - klawiatura
-    - 'myszka'
-    - nawigacja
-    - 'osoby niewidome'
+category: WCAG
+tags: [interfejs, klawiatura, 'myszka', nawigacja, 'osoby niewidome', 'kryteria sukcesu']
 ---
 
 Kto chce zapewnić pełną dostępność swojego serwisu internetowego musi zadbać o to, by **absolutnie wszystkie** funkcje i treści były dostępne za pomocą klawiatury. W niektórych przypadkach jest to naprawdę duże wyzwanie.

@@ -3,12 +3,8 @@ title: 'Niebezpieczna CAPTCHA pomaga przenosić wirusy komputerowe'
 date: '2015-05-01T10:26:18+02:00'
 Author: 'Jacek Zadrożny'
 layout: post
-categories:
-    - artykuły
-tags:
-    - bezpieczeństwo
-    - CAPTCHA
-    - wirusy
+category: artykuły
+tags: [bezpieczeństwo, CAPTCHA, wirusy]
 ---
 
 Dostałem ostatnio email z informacją, że Poczta Polska nie mogła dostarczyć mi przesyłki i mogę sobie sprawdzić, co się z nią stało i gdzie mogę odebrać. Akurat czekam na paczkę z kraju, gdzie kupione najwięcej iPhone’ów, więc kliknąłem. Jestem świadomym i ostrożnym użytkownikiem komputera, więc nie działam bezmyślnie, co teraz akurat się przydało.

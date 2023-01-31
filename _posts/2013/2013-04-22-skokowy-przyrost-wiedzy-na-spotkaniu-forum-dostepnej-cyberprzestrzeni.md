@@ -2,20 +2,11 @@
 title: 'Skokowy przyrost wiedzy na spotkaniu Forum Dostępnej Cyberprzestrzeni'
 date: '2013-04-22T11:10:13+02:00'
 layout: post
-categories:
-    - artykuły
-tags:
-    - 'Forum Dostępnej Cyberprzestrzeni'
-    - 'język migowy'
-    - klawiatura
-    - myszka
-    - napisy
-    - 'pętla indukcyjna'
-    - ruch
-    - 'WCAG'
+category:  artykuły
+tags: ['Forum Dostępnej Cyberprzestrzeni', 'język migowy', klawiatura, myszka, napisy, 'pętla indukcyjna', 'niepełnosprawność ruchowa', 'WCAG', 'Maciej Kasperkowiak', 'Monika Zaniewska', 'Aleksandra Mumot']
 ---
 
-Mam własne kryterium oceny przydatności wszelkiego rodzaju szkoleń, warsztatów, seminariów i konferencji. Jeżeli dowiaduję się czegoś nowego lub przynajmniej starego, ale pokazanego z innego punktu widzenia – uznaję czas za nie stracony. Jeżeli 40 procent informacji było dla mnie nowych lub pokazanych inaczej (głębiej, szerzej, kompetentniej) – uznaję całość za udaną. Biorąc to kryterium uznaję spotkanie zorganizowane przez [Forum Dostępnej Cyberprzestrzeni](http://fdc.org.pl) w sobotę i niedzielę 20-21 kwietnia za bardzo udane.
+Mam własne kryterium oceny przydatności wszelkiego rodzaju szkoleń, warsztatów, seminariów i konferencji. Jeżeli dowiaduję się czegoś nowego lub przynajmniej starego, ale pokazanego z innego punktu widzenia – uznaję czas za nie stracony. Jeżeli 40 procent informacji było dla mnie nowych lub pokazanych inaczej (głębiej, szerzej, kompetentniej) – uznaję całość za udaną. Biorąc to kryterium uznaję spotkanie zorganizowane przez Forum Dostępnej Cyberprzestrzeni w sobotę i niedzielę 20-21 kwietnia za bardzo udane.
 
 Idea była następująca – spotykają się ludzie znający się na różnych kawałkach dostępności lub szerzej – cyfrowym włączeniu osób niepełnosprawnych i dzielą się ze sobą nawzajem wiedzą. W ten sposób rośnie grupa wiedzących, którzy mogą tą wiedzę szerzyć dalej. Tu nie ma podziału “my wiemy, a wy nie wiecie” tylko “wszyscy coś wiemy i teraz wam powiemy”. A brać może każdy tyle, ile zechce.
 
