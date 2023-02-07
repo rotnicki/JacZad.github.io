@@ -10,7 +10,7 @@ tags: [‚teatr’, ‚matematyka’]
 Wczoraj byliśmy w teatrze TR na spektaklu autorstwa Doroty Masłowskiej „Między nami dobrze jest”. Ubawiłem się setnie, a spektakl był świetnie zagrany i oprawiony. Gorąco polecam. Ale 
 ja nie o tym.
 
-Chcę tu opisać małą przygodę, czy raczej obserwacjię. Kto doczyta do końca zrozumie, dlaczego dotyczy to dostępności.
+Chcę tu opisać małą przygodę, czy raczej obserwację. Kto doczyta do końca zrozumie, dlaczego dotyczy to dostępności.
 
 Usiedliśmy w czwórkę w dziewiątym rzędzie na miejscach od 1 do 4. Takie miejsca  mają te wadę, że osoby z biletami w dalszej części rzędu przeciskają się przed nami. Tak było także z dwoma paniami, które przecisnęły się dalej. Jednak po chwili przeciskały się w drugą stronę, mamrocząc pod nosem, że muszą iść dwa rzędy dalej.
 
