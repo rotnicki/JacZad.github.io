@@ -49,48 +49,43 @@ Examples of mechanisms that satisfy this criterion include:
 
 ### Wersja polska
 
-::: {.section .sc .new}
-#### Accessible Authentication
+
+#### Dostępna autoryzacja
 
 AA
 
 New
 
-A cognitive function test (such as remembering a password or solving a
-puzzle) is not required for any step in an authentication process unless
-that step provides at least one of the following:
+Sprawdzanie zdolności poznawczych (takich jak zapamiętanie hasła lub rozwiązanie
+zagadki) nie jest wymagane dla żadnego kroku w procesie uwierzytelniania, chyba że
+ten krok zapewnia co najmniej jeden z następujących elementów:
 
-Alternative
-:   Another authentication method that does not rely on a cognitive
-    function test.
 
-Mechanism
-:   A mechanism is available to assist the user in completing the
-    cognitive function test.
+Alternatywa
+:   Alternatywna metoda autoryzacji, która nie jest oparta na sprawdzaniu zdolności poznawczych.
 
-Object Recognition
-:   The cognitive function test is to recognize objects.
+Mechanizm
+:   Dostępny jest mechanizm wspomagający użytkownika w przejściu przez sprawdzanie zdolności poznawczych.
 
-Personal Content
-:   The cognitive function test is to identify non-text content the user
-    provided to the website.
+Rozpoznawanie obiektów
+:   Sprawdzanie zdolności poznawczych polega na rozpoznawaniu obiektów.
 
-\"Object recognition\" and \"Personal content\" may be represented by
-images, video, or audio.
+Treści osobiste
+:   Sprawdzanie  zdolności poznawczych ma na celu identyfikację treści nietekstowych, które użytkownik umieścił na stronie internetowej.
+
+"Rozpoznawanie obiektów" i "Treści osobiste" mogą być reprezentowane przez
+obrazy, wideo lub dźwięk.
 
 ::: note
-Examples of mechanisms that satisfy this criterion include:
+Przykłady mechanizmów spełniających to kryterium:
 
-1.  support for password entry by password managers to reduce memory
-    need, and
-2.  copy and paste to reduce the cognitive burden of re-typing.
-:::
+1. obsługa wprowadzania hasła przez menedżery haseł w celu odciążenia pamięci oraz
+2. możliwość kopiowania i wklejania, aby zmniejszyć wymagania związane z ponownym wpisywaniem.
 :::
 
 
 ### Wersja angielska
 
-::: {.section .sc .new}
 #### Accessible Authentication (Enhanced)
 
 AAA
@@ -113,29 +108,26 @@ Mechanism
 
 ### Wersja polska
 
-::: {.section .sc .new}
-#### Accessible Authentication (Enhanced)
+#### Dostępna autoryzacja (rozszerzona)
 
 AAA
 
 New
 
-A cognitive function test (such as remembering a password or solving a
-puzzle) is not required for any step in an authentication process unless
-that step provides at least one of the following:
+Sprawdzanie zdolności poznawczych (takich jak zapamiętanie hasła lub rozwiązanie
+zagadki) nie jest wymagane dla żadnego kroku w procesie uwierzytelniania, chyba że
+ten krok zapewnia co najmniej jeden z następujących elementów:
 
-Alternative
-:   Another authentication method that does not rely on a cognitive
-    function test.
 
-Mechanism
-:   A mechanism is available to assist the user in completing the
-    cognitive function test.
-:::
+Alternatywa
+:   Alternatywna metoda autoryzacji, która nie jest oparta na sprawdzaniu zdolności poznawczych.
+
+Mechanizm
+:   Dostępny jest mechanizm wspomagający użytkownika w przejściu przez sprawdzanie zdolności poznawczych.
+
 
 ### Wersja angielska
 
-::: {.section .sc .new}
 #### Consistent Help
 
 A
@@ -163,30 +155,26 @@ change, such as changing the page\'s zoom or orientation, which may
 trigger a different page variation. This criterion is concerned with
 relative order across pages displayed in the same page variation (e.g.,
 same zoom level and orientation).
-:::
 
 
 ### Wersja polska
 
-::: {.section .sc .new}
-#### Consistent Help
+#### Stała pomoc
 
 A
 
 New
 
-If a web page contains any of the following help mechanisms, and those
-mechanisms are repeated on multiple web pages within a set of web pages,
-they occur in the same relative order to other page content, unless a
-change is initiated by the user:
+Jeżeli na stronie internetowej znajdują się poniższe mechanizmy pomocy i powtarzają się na wielu stronach internetowych w ramach jednego zestawu stron internetowych , występują w tej samej względnej kolejności za każdym razem, gdy są powtarzane, chyba że zmiana jest inicjowana przez użytkownika.
 
--   Human contact details;
--   Human contact mechanism;
--   Self-help option;
--   A fully automated contact mechanism.
+-   dane kontaktowe do człowieka;
+-   Mechanizm kontaktu z człowiekiem;
+-   Pomoc na własną rękę;
+-   W pełni zautomatyzowany mechanizm kontaktowy..
 
-Help mechanisms may be provided directly on the page, or may be provided
-via a direct link to a different page containing the information.
+Mechanizmy pomocy mogą być udostępniane bezpośrednio na stronie lub mogą być udostępniane za pomocą łącza do innej strony zawierającej informacje.
+
+W przypadku tego Kryterium Sukcesu, ten sam porządek względny można traktować jako porządek treści podczas serializacji strony. Wizualna pozycja mechanizmu pomocy prawdopodobnie będzie stała na różnych podstronach dla tego samego rodzaju podstrony, (np. punkt przerwania CSS). Użytkownik może zainicjować zmianę, np. zmianę powiększenia lub orientacji strony, co może wywołać inną odmianę strony. To kryterium dotyczy względnej kolejności stron wyświetlanych w tej samej odmianie strony (np. ten sam poziom powiększenia i orientacja).
 
 For this Success Criterion, the same relative order can be thought of as
 how the content is ordered when the page is serialized. The visual
@@ -196,8 +184,6 @@ change, such as changing the page\'s zoom or orientation, which may
 trigger a different page variation. This criterion is concerned with
 relative order across pages displayed in the same page variation (e.g.,
 same zoom level and orientation).
-:::
-
 
 
 ### Wersja angielska
