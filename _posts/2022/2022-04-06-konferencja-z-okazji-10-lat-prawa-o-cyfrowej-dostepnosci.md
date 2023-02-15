@@ -11,6 +11,7 @@ tags:
     - prawo
     - "sztuczna inteligencja"
     - 'koniec cyfrowej dostępności'
+excerpt: Zaproszenie z Kancelarii Prezesa Rady Ministrów z okazji dekady istnienia prawa o dostępności cyfrowej.
 ---
 
 W 2012 roku powstały pierwsze przepisy w polskim prawie, dotyczące cyfrowej dostępności. Najpierw nowelizacja ustawy o informatyzacji podmiotów realizujących zadania publiczne, a potem rozporządzenie w sprawie Krajowych Ram Interoperacyjności. W zasadzie od tego [zaczął się mój blog](https://informaton.blog/2012/05/31/dostepnosc-zapisana-w-rozporzadzeniu/). 10 lat to dobry czas na podsumowania.

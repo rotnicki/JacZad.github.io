@@ -3,8 +3,9 @@ Title: ‚Przygoda w teatrze’
 date: 2023-01-15
 author: "Jacek Zadrożny"
 layout: post
-category: artykuły
+categories: artykuły
 tags: [‚teatr’, ‚matematyka’]
+excerpt: Czasem trzeba zrezygnować z przyzwyczajeń, by podnieść dostępność. Problemy poznawcze może czasem mieć każdy, o czym przekonałem się podczas wizyty w teatrze.
 ---
 
 Wczoraj byliśmy w teatrze TR na spektaklu autorstwa Doroty Masłowskiej „Między nami dobrze jest”. Ubawiłem się setnie, a spektakl był świetnie zagrany i oprawiony. Gorąco polecam. Ale 

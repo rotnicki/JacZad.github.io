@@ -9,6 +9,7 @@ tags:
     - braille
     - 'osoby niewidome'
     - Quizally
+excerpt: "Czym jest alfabet Braille'a? Do czego można go użyć? Zapraszam do quizu."
 ---
 
 Zapraszam do [kolejnego quizu](https://www.quizally.pl/quiz/show?id=32), tym razem poświęconego alfabetowi Braille’a. Historia, notacje, technikalia. Może dowiesz się czegoś nowego.

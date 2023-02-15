@@ -11,6 +11,10 @@ tags:
     - architektura
     - poradnik
     - teatr
+    - 'Jacek Zadrożny'
+    - 'Anna Żórawska'
+    - 'Kamil Kowalski'
+excerpt: Dobra i zwięzła publikacja na temat dostępności w kulturze.
 ---
 
 Czekałem na opublikowanie tego poradnika, by umieścić informacje o nim w newsletterze. Pasowałby przecież idealnie. No ale wreszcie jest, więc linkuję do poradnika, nad którym pracowała dzielnie Ania Żórawska i grono współautorów, w tym ja. Ciężka to była praca, a ja napisałem materiału trzykrotnie więcej, niż ostatecznie trafiło do poradnika.

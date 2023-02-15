@@ -5,6 +5,7 @@ date: 2023-01-21
 layout: post
 category: artykuły
 tags: [„sztuczna inteligencja”, „Chat GPT”, „DiffusionBee”, 'tekst alternatywny']
+excerpt: Wykorzystanie sztucznej inteligencji w dostępności jest nie tylko możliwe, ale także dzieje się od dość dawna. Jednak nie można jej do końca ufać.
 ---
 
 Czy można użyć sztuczną inteligencję do tworzenia tekstów alternatywnych do grafik? To pytanie pojawia się dość często podczas szkoleń i warsztatów. Kiedyś nie znałem odpowiedzi na to pytanie, więc zrobiłem kilka eksperymentów. Teraz już wiem, czy to możliwe i teraz to opiszę.

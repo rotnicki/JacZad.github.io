@@ -11,6 +11,7 @@ tags:
     - klawiatura
     - 'WCAG'
     - 'skiplink'
+excerpt: Poradnik na temat prawidłowego stosowania skiplinków na stronach internetowych.
 ---
 
 WCAG rekomendują stosowanie skiplinków w kryterium sukcesu 2.4.1: możliwość pominięcia bloków. Ostatnio zaciekawiło mnie bogactwo rodzajów i sposobów wdrażania skiplinków. Postaram się zatem trochę podpowiedzieć, żeby unikać pewnych rozwiązań. Zatem do dzieła!

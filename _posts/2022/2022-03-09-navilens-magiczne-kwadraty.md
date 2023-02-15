@@ -4,12 +4,13 @@ date: '2022-03-09T18:54:39+01:00'
 author: 'Jacek Zadrożny'
 layout: post
 categories:
-    - artykuły
+    - podcast
 tags:
     - mobilność
     - Navilens
     - 'osoby niewidome'
     - 'aplikacje mobilne'
+excerpt: Czym są kody Navilens i jak mogą pomóc w poruszaniu się osób niewidomych?
 ---
 
 Niemal cały styczeń upłynął mi na testowaniu rozwiązania o nazwie [Navilens](https://www.navilens.com/en/). Testy zostały zamówione przez Zakład Transportu Miejskiego w Warszawie. Ich celem było sprawdzenie, czy Navilens mogą być dobrym wsparciem dla niewidomych i słabowidzących pasażerów.

@@ -3,8 +3,9 @@ title: "Jak ocalało rozporządzenie w sprawie Krajowych Ram Interoperacyjności
 author: Jacek Zadrożny
 date: 2023-01-11
 layout: post
-category: zapiski
+categories: zapiski
 tags: ["ustawa o dostępności cyfrowej", "rozporządzenie KRI", "prawo"]
+excerpt: Czasem trudno nadążyć za zmianami prawa. Szczególnie gdy jedna ustawa nowelizuje inną, a ta z kolei zmienia jeszcze inną.
 --- 
 
 Ja wiem, że to hermetyczna wiadomość, ale  dopiero się dowiedziałem. Jest takie rozporządzenie w sprawie Krajowych Ram Interoperacyjności.Pełna nazwa jest znacznie dłuższa, więc umieszczam ją na końcu. To rozporządzenie określa standardy techniczne systemów informatycznych podmiotów publicznych. Protokoły, formaty, bezpieczeństwo, a nawet standard kodowania znaków. No i to rozporządzenie miało umrzeć w maju 2022 roku, bo tak kazała ustawa o dostępności cyfrowej. Po co taki zabieg? Nie mam pojęcia. No i zastanawiałem się, co teraz będą robić programiści, jak nie będzie standardów? Wreszcie znalazłem odpowiedź. Nową ustawą znowelizowano ustawę o dostępności cyfrowej, przedłużając wegetację rozporządzenia do maja 2024 roku.

@@ -8,6 +8,7 @@ categories:
 tags:
     - GAAD
     - IRD
+excerpt: Notatka z comiesięcznego spotkania Izby Rzemiosła Dostępnościowego.
 ---
 
 W środę spotkaliśmy się na pogaduchy na temat cyfrowej dostępności. Od pewnego czasu mamy takie wydarzenia, nazwane Izbą Rzemiosła Dostępnościowego. Rozmawiamy na różne tematy, czasem dość odlegle związane z samą dostępnością. Można powiedzieć, że to są takie spotkania, na których można się trochę pokłócić. Pomyślałem, że wymienię tematy, jakie poruszyliśmy, żeby nieobecni mieli przynajmniej taką skróconą informację.
