@@ -1,7 +1,8 @@
 ---
 title: 'Codzienne porady w styczniu'
-category: artykuły
+categories: artykuły
 tags: ['porady', 'Quizally', 'edukacja']
+excerpt: Od początku 2023 roku publikujemy codzienne porady na temat dostępności. Dzisiaj krótkie podsumowanie pierwszego miesiąca.
 ---
 
 Jeżeli zaglądasz na [Quizally](https://quizally.pl), to na pewno rzuciły się Ci w oczy codzienne porady na temat dostępności. Pomysł podrzucił, a przede wszystkim zrealizował, Piotr Osipa. Ja zasiliłem treściami, a w kodzie dodałem tak troszeczkę od siebie. Warto zatem podsumować ten pierwszy miesiąc, zanim zacznie się kolejny.

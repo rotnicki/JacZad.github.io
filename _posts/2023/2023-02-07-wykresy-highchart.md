@@ -1,7 +1,8 @@
 ---
 title: 'Dostępne wykresy od Highchart'
-category: artykuły
+categories: artykuły
 tags: ['wykresy', 'Highchart', 'Linkedin', 'Microsoft']
+excerpt: Czy można zrobić dostępne wykresy? Okazuje się, że tak. Pokazuje to chociażby firma Highchart.
 ---
 
 Dostępne wykresy to ciekawy zakątek dostępności cyfrowej. Bywa tak, że wykres prezentuje jakąś zmienność, którą można opisać słownie jako alternatywę tekstową. To jednak nie do końca jest przecież to, bo taki opis jest subiektywny.
