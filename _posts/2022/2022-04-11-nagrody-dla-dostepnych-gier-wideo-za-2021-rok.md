@@ -10,6 +10,7 @@ tags:
     - nagroda
     - napisy
     - wideo
+excerpt: Gry wideo też mogą być dostępne cyfrowo. I dzieje się to coraz częściej. No i są nagrody dla najbardziej dostępnych gier.
 ---
 
 Często mi się zdarza słyszeć, że czegoś nie da się zrobić cyfrowo dostępne. To jest za trudne, zbyt kosztowne, a klientów jest za mało. Czasem dotyczy to rzeczy dość prostych.
