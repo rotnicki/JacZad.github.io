@@ -3,13 +3,9 @@ title: 'Rozbudowany kreator deklaracji dostępności'
 date: '2022-03-10T12:46:48+01:00'
 author: 'Jacek Zadrożny'
 layout: post
-categories:
-    - artykuły
-tags:
-    - 'deklaracja dostępności'
-    - 'architektura'
-    'narzędzia dla koordynatorów'
-excerpt: Jak przygotować dobrą deklarację dostępności? Można to robić ręcznie, bo odpowiednie materiały techniczne są znane. Można jednak skorzystać z generatora, który ułatwi tę pracę.
+categories: artykuły
+tags: ['deklaracja dostępności', 'architektura', 'narzędzia dla koordynatorów']
+excerpt: 'Jak przygotować dobrą deklarację dostępności? Można to robić ręcznie, bo odpowiednie materiały techniczne są znane. Można jednak skorzystać z generatora, który ułatwi tę pracę.'
 ---
 
 Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych to przede wszystkim obowiązek opublikowania deklaracji dostępności. Oczywiście są tam różne przepisy, ale ten obowiązek jest napisany wprost, są wyznaczone terminy, a nawet wyznaczone kary. I na dodatek akurat te kary dość łatwo nałożyć. Warto więc zadbać, by deklaracja była opublikowana i zgodna z prawdą.
