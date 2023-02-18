@@ -10,8 +10,8 @@
 ############################
 
 # Name of website
-title: Informaton
-description: 'Strona o cyfrowej dostępności stron internetowych i aplikacji mobilnych, technologiach asystujących, WCAG, komunikowaniu się i wielu innych rzeczach.'
+title: Informaton o cyfrowej dostępności
+description: 'Dużo o cyfrowej dostępności stron internetowych i aplikacji mobilnych, technologiach asystujących, WCAG, komunikowaniu się i wielu innych rzeczach.'
 language: pl
 # Your name to show in the footer
 author: Jacek Zadrożny
@@ -286,6 +286,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
