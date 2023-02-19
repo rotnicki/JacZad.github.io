@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "Informaton.blog"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words 
 excerpt_length: 30
@@ -264,7 +264,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
@@ -286,7 +286,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
+#  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
