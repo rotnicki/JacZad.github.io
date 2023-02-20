@@ -1,21 +1,10 @@
----
-id: 1556
+    ---
 title: 'Tekst alternatywny zaszyty w grafice'
 date: '2016-10-01T19:06:52+02:00'
 layout: post
-guid: 'http://informaton.pl/?p=1556'
-permalink: /2016/10/01/tekst-alternatywny-zaszyty-w-grafice/
-restapi_import_id:
-    - 5ca8405547793
 categories:
     - artykuły
-tags:
-    - GIFdigitalizacja
-    - grafika
-    - JPEG
-    - PNG
-    - standardy
-    - 'tekst alternatywny'
+tags: ['GIF', grafika, PNG, JPEG]
 ---
 
 Wczoraj zastanawiałem się nad digitalizacją zasobów kultury i problemów technicznych z tym związanych. Zadałem sobie też pytanie, czy tekst alternatywny można na stałe przywiązać do pliku graficznego. Chodzi o to, by po wyjęciu go ze strony internetowej, dokumentu lub mając go luzem na dysku mieć opis alternatywny zawsze do wykorzystania. Poniżej efekty moich poszukiwań.
