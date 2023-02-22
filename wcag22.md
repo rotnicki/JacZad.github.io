@@ -2,7 +2,7 @@
 title: 'Nowe kryteria do tłumaczenia
 ---
 
-## Do tłumaczenia
+## Do tłumaczenia WCAG 2.2
 
 Kryteria są w kolejności alfabetycznej. Najpierw jest kryterium po angielsku, a potem po polsku. Wszystko jest z nagłówkami.
 
